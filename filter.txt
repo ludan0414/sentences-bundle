@@ -1,0 +1,5 @@
+a.json:
+幸运星 小圆 春物 青春恋爱 秒速 你的名字 天气 铃芽 花名 龙与虎 beats 寒蝉 超电磁炮 凉宫春日 境界的彼方 日常 樱花庄 哈尔 笨蛋测验 annad CLANNAD 缘之空 中二病 千与千寻 四月是你的谎言 逢坂大河 桐乃 EVA 天空之城 命运石之门 可塑性记忆 大鱼海棠 约会大作战 月色真美 末日时在 末日三问 AIR 青春猪头 Beats 朝花夕誓 比宇宙 白色相簿 魔法禁书 Darling 美好的世界 arlotte 实力至上 辉夜 恋爱随意 胰脏 恋爱小行星 天使的心跳 总之就是 魔女之旅 路人女主 魁拔 WHITE 孤独摇滚 星座
+
+c.json:
+东方 Eden 沙耶 narcissu 三国杀 近月 守望 Overwatch UNDERTALE 明日方舟 Summer 终末之诗 Undertale Minecraft 心跳文学部 eden 青空下 美少女万华镜 原神 Doki 爱上火车 星空列车 萌放 undertale
