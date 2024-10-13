@@ -1,5 +1,3833 @@
 [
  {
+  "hitokoto": "与众不同的生活方式很累人呢，因为找不到借口。",
+  "type": "a",
+  "from": "幸运星",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我并不羡慕别人的人生，这就是所谓幸福。",
+  "type": "a",
+  "from": "幸运星",
+  "from_who": null
+ },
+ {
+  "hitokoto": "贫乳是社会地位的象征。是具有稀有价值的！",
+  "type": "a",
+  "from": "幸运星",
+  "from_who": null
+ },
+ {
+  "hitokoto": "今天你最后遇见的那个人有在微笑吗？",
+  "type": "a",
+  "from": "幸运星",
+  "from_who": null
+ },
+ {
+  "hitokoto": "世界上的人都变成废柴，这个世界就没有废柴了。",
+  "type": "a",
+  "from": "春物",
+  "from_who": null
+ },
+ {
+  "hitokoto": "青春是谎言，是邪恶。",
+  "type": "a",
+  "from": "春物",
+  "from_who": null
+ },
+ {
+  "hitokoto": "孤高的游荡灵魂不需要羁绊之地",
+  "type": "a",
+  "from": "春物",
+  "from_who": null
+ },
+ {
+  "hitokoto": "努力是不会背叛自己的，虽然梦想有时会背叛自己。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "微风摇曳着窗帘，夕阳斜射入教室，在那里鼓起勇气告白的少年。即使现在也能清晰地回想起她的声音「当朋友，不行吗？」",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": null
+ },
+ {
+  "hitokoto": "所以，他们的祭典还没结束。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人生在世何其痛苦，所以咖啡至少该甜一点。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "做出一副温柔的样子来折磨人不是更令人难受吗？",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "所谓“大家”，就是无视并牺牲了一部分弱势群体后所达到的虚伪的和平与共识。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "润滑油是用来防止磨损的东西。在心中有着润滑油也会活得更加轻松吧。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "不是我，都是社会的错",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "努力不会背叛自己，虽然有时会背叛梦想",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "若没有可依靠之处，便也找不到自己的归宿，躲躲藏藏随波逐流，依附于某物，却又一头撞在看不见的墙壁上。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "整个社会对我都很苛刻。所以至少让我自己宽容一下我自己吧。如果大家都对自己更宽容一点的话。大家都变成废柴就没有废柴了。",
+  "type": "a",
+  "from": "果然我的青春恋爱喜剧搞错了",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "所谓的「改变自己，世界就会随之改变」这种事，是不可能的。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "人只会看到自己想看到的、听到自己想听到的，我也并不例外。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "大家互相帮助，一起成功，一起幸福什么的，不过是种理想。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "话说回来，现充还真是麻烦啊。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "就算世上有着所谓的“好女人”，也不会有着“和我关系好的女人”。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "比企谷八幡"
+ },
+ {
+  "hitokoto": "我是想被包养，但不会接受施舍",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "善于破坏气氛的人，不仅能破坏好的气氛，其实也能把坏的气氛破坏掉。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "孤独的人不会伤害别人，只会不断地伤害自己罢了。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "大老师"
+ },
+ {
+  "hitokoto": "游荡的孤高灵魂不需要羁绊之处。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": "渡航"
+ },
+ {
+  "hitokoto": "蔷薇不管被冠以什么名字，却依旧可以芳香扑鼻。",
+  "type": "a",
+  "from": "我的青春恋爱物语果然有问题",
+  "from_who": null
+ },
+ {
+  "hitokoto": "像平常的你一样引发奇迹吧-",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "和我定下契约，成为魔法少女吧！",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "比希望更炙热，比绝望更深邃，这就是爱啊。",
+  "type": "a",
+  "from": "魔法少女小圆-叛逆的物语",
+  "from_who": null
+ },
+ {
+  "hitokoto": "奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "祈求别人幸福的同时,却不得不去诅咒其他的人,我们魔法少女就是这样的构造吧!",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "比希望更炙热，比绝望更深邃，这就是爱啊。",
+  "type": "a",
+  "from": "魔法少女小圆-叛逆的物语",
+  "from_who": null
+ },
+ {
+  "hitokoto": "这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！",
+  "type": "a",
+  "from": "魔法少女小圆新篇 叛逆的物语",
+  "from_who": null
+ },
+ {
+  "hitokoto": "这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！",
+  "type": "a",
+  "from": "魔法少女小圆新篇",
+  "from_who": null
+ },
+ {
+  "hitokoto": "已经没什么好害怕了。",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果有人对我说抱有希望是错误的花，我会无数次回答“不是这样的”，无论什么时候都一定会这样撑下去。",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": "鹿目圆"
+ },
+ {
+  "hitokoto": "Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": "晓美焰"
+ },
+ {
+  "hitokoto": "这就是人类感情的极致，比希望更炽热，比绝望更深邃的，爱哟！",
+  "type": "a",
+  "from": "魔法少女小圆",
+  "from_who": "晓美焰"
+ },
+ {
+  "hitokoto": "挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力……",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "可是就算我们通一千次短信，我们各自的心，大概也只会相互靠近一厘米吧。",
+  "type": "a",
+  "from": "秒速5厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果还有来生 ，我无论如何都要来到你身边，我已经没有了其他想要追求的东西，因为没有比你更重要的了。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果我拥有如同小狗一样的尾巴的话，肯定会高兴得遮掩不住地摇来摇去吧。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "倘若只是为了驱赶心中的寂寞，找谁都可以的。",
+  "type": "a",
+  "from": "秒速5厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我到底要以怎么样的速度生活才能与你再次相遇？",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "呐，知道么，樱花飘落的速度，是每秒五厘米哦~",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "求求你，不要对我这么温柔！",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人一生会遇到约2920万人，两个人相爱的概率是0.000049。所以你不爱我，我不怪你。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我只是做了我能做的事，没有时间想将来。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "私だって今日こそ... 遠野くんに告白するんだ。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "明明只是活着，哀伤却无处不在……",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "时间带着明显的恶意，缓缓在我的头顶流逝。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "明明只是活着，哀伤却无处不在…",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "听说，樱花花瓣飘落的速度，是每秒5厘米，思念的距离到底有多远。如果樱花下落时是有声音的，你会不会听到我对你的思念",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "倘若只是为了驱赶心中的寂寞，找谁都可以的。",
+  "type": "a",
+  "from": "秒速5厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "樱花落下的速度是每秒五厘米， 我该用怎么样的速度，才能与你相遇。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。",
+  "type": "a",
+  "from": "秒速5厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行",
+  "type": "a",
+  "from": "秒速5厘米",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。",
+  "type": "a",
+  "from": "秒速五厘米",
+  "from_who": "远野贵树"
+ },
+ {
+  "hitokoto": "不管你在世界的哪个地方，我一定会，再次去见你的。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "描线一笔接一笔，白色的素描本上渐渐萌生黑意。即便如此，还无法照准记忆中的风景。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你会哭着笑，笑着哭，是因为你的心，早已超越了自己啊。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "醒来的时候 不知道自己为什么哭 时常会有的事情 做过的梦总是回想不起 只是 一种有什么消失的丧失感",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "以彗星为龙，以彗星为绳结。描绘出割裂的彗星舞动的形态。又是一轮岁月。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "聚拢，成形，捻转，回绕，时而返回，暂歇，再联结。这就是组纽。这就是时间。这就是，联结",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "从你的前前前世开始，我就开始找寻你",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "假如我们相遇，肯定一眼就能认出彼此",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": "宫水三叶"
+ },
+ {
+  "hitokoto": "从现在开始，我将追寻你的名字。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我，将某个人，唯一的某个人，试图锁定。我，",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "散落至四方。又或是升起至四方。在无法确认这一事实的浮游感中，彗星耀辉在夜空。彗星裂开，碎片落下。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "彼方为谁，无我有问 ；九月露湿，待君之前",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "重要的人，不能忘记的人，不想忘记的人。 你，是谁？",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "想和你重新认识一次 从你叫什么名字说起。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要记住你的名字，不管你在世界的哪个地方 ，我一定会，去见你。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "看来这世界 似乎还想要驯服我 那就如你所愿吧 我会美丽地挣扎到底",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": null
+ },
+ {
+  "hitokoto": "星星和月亮其实都反射太阳的光亮，尽管暂时乌云密布，但只要找到那束光，我们依旧可以一起闪耀.",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": "新海诚"
+ },
+ {
+  "hitokoto": "从你的前前前世开始，我就一直在寻找你的踪迹。",
+  "type": "a",
+  "from": "你的名字",
+  "from_who": "RADWIMPS"
+ },
+ {
+  "hitokoto": "神啊，求求你。已经足够了。已经没事了。我们都会熬过去的。",
+  "type": "a",
+  "from": "天气之子",
+  "from_who": null
+ },
+ {
+  "hitokoto": "自古以来，天空上就是另一个世界。",
+  "type": "a",
+  "from": "天气之子",
+  "from_who": null
+ },
+ {
+  "hitokoto": "在东京的天空上，我们决定性的改变了世界的模样。",
+  "type": "a",
+  "from": "天气之子",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即使再也没有晴天也没有关系.",
+  "type": "a",
+  "from": "天气之子",
+  "from_who": null
+ },
+ {
+  "hitokoto": "天气什么的，就让它失控好了！",
+  "type": "a",
+  "from": "天气之子",
+  "from_who": "森岛帆高"
+ },
+ {
+  "hitokoto": "我是一个经常笑的人，可我不是经常开心的人。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "相信十年后的八月，我们还会相遇。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "明天，不是你想要就能有的。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们会，慢慢长大成人，随着季节的不停变换 路边盛开的鲜花也在不断变化。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我在时光斑驳深处，聆听到花开的声音。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "相信十年后的八月，我们还会相遇。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "相信十年后的八月，我们还会相遇。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果能不长大该有多好，可时光在身后挡住退路。",
+  "type": "a",
+  "from": "未闻花名",
+  "from_who": null
+ },
+ {
+  "hitokoto": "以为大哭大闹一场就有人来安慰的家伙真是幸福呢。",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": null
+ },
+ {
+  "hitokoto": "无论最终的结果是什么，只要这是自己选择的道路。",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": "竹宫悠由子"
+ },
+ {
+  "hitokoto": "你已经不是我的狗了。",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我想你们的努力一定会有回报的",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人生不如意十有八九！",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": null
+ },
+ {
+  "hitokoto": "龙儿是我的，谁都不许碰。",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不再逃避了，我要改变，接受一切，以自己为豪，来爱龙儿。",
+  "type": "a",
+  "from": "龙与虎",
+  "from_who": "逢坂大河"
+ },
+ {
+  "hitokoto": "真相只有一个！",
+  "type": "a",
+  "from": "柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "有时语言就像把利刃，使用不当，就会成为凶器。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "正因为生命有限，所以才显得重要，正因为生命有限，所以才更应该努力不懈！",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我喜欢你，比世界上任何人都喜欢你。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果说怪盗是一个技艺精湛，盗取财宝的艺术家，那么侦探就只是跟在怪盗后面吹毛求疵，充其量不过是个评论家。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "小五郎"
+ },
+ {
+  "hitokoto": "隐藏的是心中的秘密，照耀两人的是star和snow……",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "青山刚昌"
+ },
+ {
+  "hitokoto": "我再也不要看见她哭的样子了，就算我从此从她心目中消失。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "工藤新一"
+ },
+ {
+  "hitokoto": "正因为生命有限，所以才显得更重要，正因为生命有限，所以才更应该努力不懈。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "服部平次"
+ },
+ {
+  "hitokoto": "因为等待的越久，重逢时就越幸福啊。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "小兰"
+ },
+ {
+  "hitokoto": "我叫江户川柯南，是个侦探。",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "江户川柯南"
+ },
+ {
+  "hitokoto": "现实中的人生不像游戏中那么简单。",
+  "type": "a",
+  "from": "名侦探柯南剧场版：贝克街的亡灵",
+  "from_who": "泽田弘树"
+ },
+ {
+  "hitokoto": "真実はいつもひとつ！",
+  "type": "a",
+  "from": "名侦探柯南",
+  "from_who": "青山刚昌"
+ },
+ {
+  "hitokoto": "一味地追求理想，总有一天会被现实背叛。",
+  "type": "a",
+  "from": "名侦探柯南：绯色的子弹",
+  "from_who": "查理"
+ },
+ {
+  "hitokoto": "不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。",
+  "type": "a",
+  "from": "angel beats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子",
+  "type": "a",
+  "from": "angel beats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不管是怎样的回忆，都是我们活过的人生。",
+  "type": "a",
+  "from": "angel beats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。",
+  "type": "a",
+  "from": "angel beats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……",
+  "type": "a",
+  "from": "Angelbeats",
+  "from_who": "音无结弦"
+ },
+ {
+  "hitokoto": "从小好女色的男人的想像力比不上狗。",
+  "type": "a",
+  "from": "寒蝉鸣泣之时",
+  "from_who": null
+ },
+ {
+  "hitokoto": "男人变态有什么错！",
+  "type": "a",
+  "from": "寒蝉鸣泣之时",
+  "from_who": null
+ },
+ {
+  "hitokoto": "时间可以治愈？如果时间也病了怎么办？",
+  "type": "a",
+  "from": "寒蝉鸣泣之时",
+  "from_who": null
+ },
+ {
+  "hitokoto": "时间可以治愈？如果时间也病了怎么办",
+  "type": "a",
+  "from": "寒蝉明泣之时",
+  "from_who": "古手梨花"
+ },
+ {
+  "hitokoto": "既然如此，就再努力一次吧。别在这里愁眉不展，也不要再自欺欺人，重新来过！",
+  "type": "a",
+  "from": "某科学的超电磁炮",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你指尖跳动的电光，是我此生不变的信仰",
+  "type": "a",
+  "from": "某科学的超电磁炮",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只会比大小真是没品。",
+  "type": "a",
+  "from": "某科学的超电磁炮S",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你指尖跃动的电光，是我此生不变的信仰，唯我超电磁炮永世长存。",
+  "type": "a",
+  "from": "某科学的超电磁炮",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你以为我是谁？这是我埋下的因，我要亲手解决这一切。",
+  "type": "a",
+  "from": "某科学的超电磁炮",
+  "from_who": "御坂美琴"
+ },
+ {
+  "hitokoto": "我的梦想是不失去任何东西让所有人笑着回来。",
+  "type": "a",
+  "from": "某科学的超电磁炮",
+  "from_who": "上条当麻"
+ },
+ {
+  "hitokoto": "我很好奇！",
+  "type": "a",
+  "from": "冰菓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "何必去在意自己与别人相比是否特别呢？即便只有一个人也好。只要有一个认为自己特别的人，我觉得那就足够了。",
+  "type": "a",
+  "from": "冰菓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "对自己有自信时，不能对别人说「期待」。所谓的「期待」是放弃时的托词，因为别无选择。若缺少这种无奈感，这个词就太虚伪了。",
+  "type": "a",
+  "from": "冰菓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我对普通的人类没有兴趣，你们只要是有外星人、未来人、异世界人、超能力者， 就尽管来找我吧！以上！",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "女人的武器不是眼泪，而是微笑。",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "重要的不是你做了多少事，而是你放了多少心思进去。",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "真正的危机不是机器人像人一样思考，而是人像机器一样思考。",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "重要的不是你做了多少事，而是你放了多少心思进去。",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "在虚构现实里寻求现实感的人才有问题",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": null
+ },
+ {
+  "hitokoto": "阿虚，电话。",
+  "type": "a",
+  "from": "凉宫春日的忧郁",
+  "from_who": "阿虚妹妹"
+ },
+ {
+  "hitokoto": "只要怀着理想而行动，就算结果不尽如人意也没有关系。但是如果失去了理想，那就真的一无所有了，连自己珍视的人都保护不了。",
+  "type": "a",
+  "from": "境界的彼方",
+  "from_who": "鸟居奈古梦"
+ },
+ {
+  "hitokoto": "没有未来的未来不是我想要的未来。",
+  "type": "a",
+  "from": "境界的彼方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要怀着理想而行动，就算结果不尽如人意也没有关系。但是如果失去了理想，那就真的一无所有了，连自己珍视的人都保护不了。",
+  "type": "a",
+  "from": "境界的彼方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我喜欢你，比这个世界上其他任何人都喜欢你，我永远都会喜欢你的。只有我的这份心情是不会输给任何人的，即使我的这个身体毁灭了、从世界上消失了，来世我肯定还是会喜欢上你的。",
+  "type": "a",
+  "from": "境界的彼方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "愿有朝一日与你见面还能释放温暖拥你入怀。",
+  "type": "a",
+  "from": "境界的彼方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们所过的每个平凡的日常，也许就是连续发生的奇迹。",
+  "type": "a",
+  "from": "日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "给，一辈子朋友劵。",
+  "type": "a",
+  "from": "日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "今天的风儿有些喧嚣啊。",
+  "type": "a",
+  "from": "男子高中生的日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不借助别人的力量就没办法跟仰慕的人聊天吗？",
+  "type": "a",
+  "from": "女高中生的虚度日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
+  "type": "a",
+  "from": "日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们所度过的每个平凡的日常，也许就是连续发生的奇迹",
+  "type": "a",
+  "from": "日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "夕阳真是耀眼无比啊。",
+  "type": "a",
+  "from": "女高中生的虚度日常",
+  "from_who": null
+ },
+ {
+  "hitokoto": "要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果因为害怕失败，而不去努力，那就不会有能够成功的人。",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": null
+ },
+ {
+  "hitokoto": "空太是笨蛋！",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我和空太是恋人以上，友人未满的关系。",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": "椎名真白"
+ },
+ {
+  "hitokoto": "我的恋爱还没有开始就结束了。",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": "姬宫伊织"
+ },
+ {
+  "hitokoto": "吶，你想成为什么颜色？",
+  "type": "a",
+  "from": "樱花庄的宠物女孩",
+  "from_who": "椎名真白"
+ },
+ {
+  "hitokoto": "就是因为你不好，才要留在你身边，给你幸福。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": null
+ },
+ {
+  "hitokoto": "心，可是很重的。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": null
+ },
+ {
+  "hitokoto": "世界这么大，人生这么长，总会有那么一个人，让你想要温柔的对待。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我已经逃避得太久了，现在终于等来了一个我愿意誓死守护的人，就是你。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": "哈尔"
+ },
+ {
+  "hitokoto": "哈尔那你到底有多少名字呢？——刚好够我自由地活下去。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": "宫崎骏"
+ },
+ {
+  "hitokoto": "人老了唯一的好处就是能失去的东西少了。",
+  "type": "a",
+  "from": "哈尔的移动城堡",
+  "from_who": "苏菲"
+ },
+ {
+  "hitokoto": "以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。",
+  "type": "a",
+  "from": "笨蛋测验召唤兽",
+  "from_who": null
+ },
+ {
+  "hitokoto": "懂得认输是非常重要的，不尝到失败的不甘，也就不会明白跌倒后怎么爬起来，更不可能再向前迈进。",
+  "type": "a",
+  "from": "笨蛋测验召唤兽",
+  "from_who": null
+ },
+ {
+  "hitokoto": "懂得认输是非常重要的，不尝到失败的不甘，也就不会明白跌倒后怎么爬起来，更不可能再向前迈进。",
+  "type": "a",
+  "from": "笨蛋测验召唤兽",
+  "from_who": null
+ },
+ {
+  "hitokoto": "正因为听不见和看不到，所以风子才会做这样的事情。",
+  "type": "a",
+  "from": "clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们开始一起攀登，这长长的，长长的坡道。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "真正重要的东西，永远都是非常简单的。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "前天是兔子，昨天是小鹿，今天是你",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我的面包！",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": null
+ },
+ {
+  "hitokoto": "正因为听不见和看不到，所以风子才会做这样的事情。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "风子"
+ },
+ {
+  "hitokoto": "我们开始一起攀登，这长长的，长长的坡道。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "渚"
+ },
+ {
+  "hitokoto": "无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "冈崎朋也"
+ },
+ {
+  "hitokoto": "前天是小兔子，昨天是小鹿，今天是你。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "一之濑琴美"
+ },
+ {
+  "hitokoto": "能哭的地方只有厕所和爸爸的怀里。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "汐"
+ },
+ {
+  "hitokoto": "美好的事情，现在才开始呐。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "伊吹风子"
+ },
+ {
+  "hitokoto": "我也很没用，但是两个人一起的话，就会变得很坚强。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "古河渚"
+ },
+ {
+  "hitokoto": "如果你捡到这个小熊，请把它交给我们的女儿。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "一之濑鸿太郎&一之濑水惠"
+ },
+ {
+  "hitokoto": "无论前方如何，请不要后悔与我相遇。",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "古河渚"
+ },
+ {
+  "hitokoto": "如果在明天起床之后，发现我们变成了一对恋人，你会觉得很有意思吗？",
+  "type": "a",
+  "from": "Clannad",
+  "from_who": "冈崎朋也"
+ },
+ {
+  "hitokoto": "我一直都在你身边 ，一直都在。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要能努力，就应当去努力；只要还能前进，就要向前走去。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "前天是小兔子，昨天是小鹿，今天是你。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "能哭的地方只有厕所和爸爸的怀里。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "前天是小兔子,昨天是小鹿,今天是你",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好…",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方…",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "笑是对身边的事物感到一瞬间的幸福而表现出来的东西。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": "冈崎朋也"
+ },
+ {
+  "hitokoto": "无知而又纯洁的岁月。是任何人都曾拥有的。世界上没有一成不变的事务。所以只要以其他方式找到自己的快乐就行了。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "心急火燎地想要长大，明明还是个小鬼。",
+  "type": "a",
+  "from": "CLANNAD ～AFTER STORY～",
+  "from_who": "古河秋生"
+ },
+ {
+  "hitokoto": "在时间的流逝里，没有什么是一成不变的。",
+  "type": "a",
+  "from": "CLANNAD ～AFTER STORY～",
+  "from_who": "古河渚"
+ },
+ {
+  "hitokoto": "爸爸，我能不再忍了吗？早苗说了，世界上能够放声大哭的地方，只有卫生间，和爸爸的怀里。",
+  "type": "a",
+  "from": "CLANNAD ～AFTER STORY～ EP18",
+  "from_who": "冈崎汐"
+ },
+ {
+  "hitokoto": "冈崎，永远都别迷失自己最珍爱的事物啊。",
+  "type": "a",
+  "from": "CLANNAD ～AFTER STORY～",
+  "from_who": "芳野佑介"
+ },
+ {
+  "hitokoto": "前天我遇见了小兔，昨天遇见了小鹿，今天则遇见了你。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": "一之濑琴美"
+ },
+ {
+  "hitokoto": "不管是快乐，还是欣喜，全都……全都不可能永远延续，即使是这样，你也会喜欢这里吗？",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即便分开，羁绊仍然是存在的，这就是所谓的家人。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。",
+  "type": "a",
+  "from": "CLANNAD",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我的内心就和厕纸一样单纯！",
+  "type": "a",
+  "from": "Little Busters!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "乘清风展白翼与君行，群青狭间，常夏之岛。",
+  "type": "a",
+  "from": "little busters！",
+  "from_who": "西园美鱼"
+ },
+ {
+  "hitokoto": "我们的心就像那天空一样，永不分离。",
+  "type": "a",
+  "from": "缘之空",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们终会相遇相知，在那悠远的苍穹。",
+  "type": "a",
+  "from": "缘之空",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人は一生、中二病なんだ。",
+  "type": "a",
+  "from": "中二病也要谈恋爱",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果当初握住的不是硬币，而是勇者的手......",
+  "type": "a",
+  "from": "中二病也要谈恋爱 恋！",
+  "from_who": null
+ },
+ {
+  "hitokoto": "邪王真眼是最强的",
+  "type": "a",
+  "from": "中二病也要谈恋爱",
+  "from_who": null
+ },
+ {
+  "hitokoto": "连繁星都不是永恒的，何况是人呢。",
+  "type": "a",
+  "from": "中二病也要谈恋爱！",
+  "from_who": "富樫勇太"
+ },
+ {
+  "hitokoto": "有一种说法是「恋爱就是一场梦」，既然是梦的话，只要给她一点时间，总是会醒的。",
+  "type": "a",
+  "from": "中二病也要谈恋爱！",
+  "from_who": "五月七日茴香"
+ },
+ {
+  "hitokoto": "不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人生就是一列开往坟墓的列车，路途上会有很多站，很难有人可以自始至终陪着走完。当陪你的人要下车时，即使不舍也该心存感激，然后挥手道别。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "曾经发生过的事情不可能忘记，只不过是想不起而已。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我已经准备好了足够挡雨的伞，可是却迟迟没有等到雨的到来，这样的尴尬只是我漫长人生中的小插曲罢了。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我的金子，只给千寻。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "记忆是不会消失的，只是一时想不起来了而已。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我只能送你到这里了，剩下的路你要自己走，不要回头。",
+  "type": "a",
+  "from": "千与千寻",
+  "from_who": "白龙"
+ },
+ {
+  "hitokoto": "前进吧，星星在你的头上闪耀哦！",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "星星只有在夜里才璀璨夺目啊。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "Eloim Essaim Eloim Essaim 请聆听我的请求。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "春天的最后一场雪，你我的最后一次相聚，能遇见你是最幸福的事了，就此分别吧！请继续向前，迎接樱花漫溢的四月，但请不要忘记我，友人A……",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "喜欢的人喜欢别人不是很正常吗。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "英雄意味着强大，英雄意味着孤独，最后一幕一定是英雄渐行渐远，我的英雄也是那样的存在。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "迎接我们的也许是漆黑一片的夜路，即便如此，也要相信自己，勇往直前。 星空会为我们在这条道路上点缀出淡淡星光。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "春天 马上就要来了  让我与你相遇的春天 就要来了  再也没有你的春天 就要来了",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你喜欢的人已经心有所属不是正常的吗，因为你喜欢他，所以你的眼中就只有她。人啊，总是盲目地去爱。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "干燥的冷气，尘埃的味道，我在其中……踏上旅途。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": "宫园薰"
+ },
+ {
+  "hitokoto": "正因为有了音乐，才有了相遇的瞬间，有了相会的感动，有了相逢的人们，有了邂逅的思念。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你驻足于春色中，于那独一无二的春色之中。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你的所言所行，全都闪烁着光芒，太过刺目，于是我闭上双眼，但内心还是无法停止对你的憧憬。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前途。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我是否住进了某人的心房呢？",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "I met the girl under full-bloomed cherry blossoms, and my fate has begun to change.",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你驻足于春色中，于那独一无二的春色之中。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "和她相遇的瞬间，我的人生就改变了。所见所闻所感，目之所及全都开始变得多姿多彩起来。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "喜欢和不讨厌之间可是有着数亿光年的距离的。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "痛苦着痛苦着，满脑子只能想我的事。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "站起来！站起来啊！你是我的腿吧！站起来啊！",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不甘心，明明你为我做了那么多，我却什么都不能为你做。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "就此分别吧！请继续向前，迎接樱花漫溢的四月，但请不要忘记我，友人A……",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": "宫园薰"
+ },
+ {
+  "hitokoto": "英雄意味着强大，英雄意味着孤独，最后一幕一定是英雄渐行渐远，我的英雄也是那样的存在。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": "相座武士"
+ },
+ {
+  "hitokoto": "干燥的空气，尘埃的味道，我在其中……踏上旅途。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": "宫园薰"
+ },
+ {
+  "hitokoto": "是你，是你，告诉我，若能在黑暗中绽放光芒，便能化作星空，悲伤化作笑颜，已经无需隐藏，漫天闪耀着的星光，都会为你照亮前行。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我喜欢了你十年，却用一整个四月编织了一个不爱你的谎言。",
+  "type": "a",
+  "from": "四月是你的谎言",
+  "from_who": null
+ },
+ {
+  "hitokoto": "那东西既然被你知道了，我就没脸活下去了，只有一死了之了！可是我还不想死，所以只好把你杀了啊！",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "笨蛋吉娃娃（バカチワワ）",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "吵死了吵死了!",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "Angel大河大人，为了大家能有一个幸福快乐的圣诞，无论是一层皮还是两层皮都给你剥下来，直到最后全裸都没问题的觉悟都做好了！",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "龙儿是我的！谁都不准碰！",
+  "type": "a",
+  "from": "逢坂大河",
+  "from_who": null
+ },
+ {
+  "hitokoto": "回家后我得好好找你人生咨询一下！",
+  "type": "a",
+  "from": "高坂桐乃",
+  "from_who": null
+ },
+ {
+  "hitokoto": "告白当天就要H什么的，真是没办法的男人呢。",
+  "type": "a",
+  "from": "高坂桐乃",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我跟喜欢成人游戏一样喜欢你",
+  "type": "a",
+  "from": "高坂桐乃",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你不会死的，因为我会保护你.",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不能逃避，不能逃避，不能逃避，不能逃避……",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要微笑就可以了。",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不能逃避，不能逃避，不能逃避，不能逃避…",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "You Are (Not) Alone;You Can (Not) Advance;You Can (Not) Redo",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "所谓的奇迹就是要发生之后才会有价值存在的吧",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不能逃避，不能逃避，不能逃避，不能逃避⋯⋯",
+  "type": "a",
+  "from": "EVA",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不能逃避，不能逃避，不能逃避。",
+  "type": "a",
+  "from": "EVA",
+  "from_who": "碇真嗣"
+ },
+ {
+  "hitokoto": "我是为了与你相见才诞生于世的。",
+  "type": "a",
+  "from": "EVA",
+  "from_who": "渚薰"
+ },
+ {
+  "hitokoto": "第一次去卢浮宫时，并没有什么特别的感觉，因为独属于我的蒙娜丽莎，我早已遇见。",
+  "type": "a",
+  "from": "EVA:One Last Kiss",
+  "from_who": null
+ },
+ {
+  "hitokoto": "越是试着忘记，越是记得深刻。",
+  "type": "a",
+  "from": "天空之城",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要一天活著,难过的事总有一天会让你笑著说出来。",
+  "type": "a",
+  "from": "天空之城",
+  "from_who": "宫崎骏"
+ },
+ {
+  "hitokoto": "我不知道我在哪里，要做什么，但是即使拼上性命，我也要守护她。",
+  "type": "a",
+  "from": "天空之城",
+  "from_who": "机器人"
+ },
+ {
+  "hitokoto": "El Psy Congroo!",
+  "type": "a",
+  "from": "命运石之门",
+  "from_who": null
+ },
+ {
+  "hitokoto": "未来的事无人知晓，所以它才如同这重逢一般，拥有着无限的可能性。",
+  "type": "a",
+  "from": "命运石之门",
+  "from_who": null
+ },
+ {
+  "hitokoto": "愿你有一天，能与你最重要的人重逢",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "幸福的回忆，美满的回忆不一定会成为救赎，有时候，回忆越是美满便越痛苦，也有时候，会越害怕，无论是对于将要离开的人来说，还是对于被留下的人来说，都不可能会成为一种救赎。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "愿你有一天，能和你最重要的人重逢。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": "艾拉"
+ },
+ {
+  "hitokoto": "愿你有一天能与你最重要的人重逢。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "愿你和重要的人，在来日重逢。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": "艾拉"
+ },
+ {
+  "hitokoto": "时光流转，愿你终有一天能和你重要的人重逢。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": "艾拉"
+ },
+ {
+  "hitokoto": "愿你能与你重要的人再次相遇。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": null
+ },
+ {
+  "hitokoto": "时光流逝，愿你与所爱之人再度重逢。",
+  "type": "a",
+  "from": "可塑性记忆",
+  "from_who": "林直孝"
+ },
+ {
+  "hitokoto": "这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": null
+ },
+ {
+  "hitokoto": "有的鱼是永远关不住的，因为他们属于天空。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我会化作人间的风雨陪在你的身边",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": null
+ },
+ {
+  "hitokoto": "从认识你，到和你性命相连，我从未后悔过。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": "椿"
+ },
+ {
+  "hitokoto": "上天给我们生命，一定是为了让我们创造奇迹的。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": "椿"
+ },
+ {
+  "hitokoto": "你遇见一个人，犯了一个错，你想弥补想还清，到最后才发现你根本无力回天，犯下的罪过永远无法弥补。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": "灵婆"
+ },
+ {
+  "hitokoto": "我们永远无法还清欠下的，只要错了，就是错了永远无法弥补。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": "灵婆"
+ },
+ {
+  "hitokoto": "人要是死了，就看不见这么美的天空了。",
+  "type": "a",
+  "from": "大鱼海棠",
+  "from_who": "湫"
+ },
+ {
+  "hitokoto": "让我们开始我们的约会（战争）吧",
+  "type": "a",
+  "from": "约会大作战",
+  "from_who": null
+ },
+ {
+  "hitokoto": "去做你喜欢做的事吧 这就是所谓的那啥...青春嘛",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我喜欢的人…也能喜欢上自己，我认为这就是奇迹。",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "至少恋爱不是种机会，我认为它是一种意志。",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "幸福感就如沉积在悲哀之河底下 隐隐发光的金砂",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "爱一定存在于世上 一定存在 无从寻觅的是爱的表现 是它的表达方式",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "把同班的可爱女同学娶回家就是我最大的梦想",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "在狂热思绪下喊出的爱情宣言中，存在着爱情的实体",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "回首前尘，尽是可耻的过往",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "月色如水，虽不如阳光般耀眼，但我的眼中却只有比那月色更可爱的你。心跳不知不觉中加速，嘴角也绷不住那溢出来的幸福笑意。月色确实醉人，却是因为你才显得更美",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "“不管你我相距多远，我都想告诉你 我对你的心意不会变，给即将去到陌生城市的你 ，我永远喜欢你”",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": null
+ },
+ {
+  "hitokoto": "今天又一次将你的言语拥入心中，因那对于我而言宛若月明之光，正如我们那天一起仰望的那般美丽。",
+  "type": "a",
+  "from": "月色真美",
+  "from_who": "东山奈央"
+ },
+ {
+  "hitokoto": "我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。",
+  "type": "a",
+  "from": "末日时在做什么?有没有空?可以来拯救吗?",
+  "from_who": null
+ },
+ {
+  "hitokoto": "纵使日薄西山。",
+  "type": "a",
+  "from": "末日时在做什么",
+  "from_who": null
+ },
+ {
+  "hitokoto": "正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "枯野瑛"
+ },
+ {
+  "hitokoto": "未来始终掌握在自己手中，从中滑落的，我们称之为过去。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": null
+ },
+ {
+  "hitokoto": "嗯。我的梦想也成真了，美好的回忆也留下了，我想我不会再有什么遗憾了。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "珂朵莉·诺塔·瑟尼欧里斯"
+ },
+ {
+  "hitokoto": "现在的我，一定是世界上最幸福的女孩子。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "珂朵莉"
+ },
+ {
+  "hitokoto": "When the dawn is close inside, we never say good-bye and never see again.",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "Ever be my love"
+ },
+ {
+  "hitokoto": "——比起自己的生命还要重要的东西，并不是这么好找的。",
+  "type": "a",
+  "from": "末日时在做什么？能不能再见一面？",
+  "from_who": "潘丽宝·诺可·卡黛娜"
+ },
+ {
+  "hitokoto": "恩，好像做了很多梦呢，快乐的，悲伤的，每个都很短，但是全都很珍贵。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "艾陆可·霍克斯登"
+ },
+ {
+  "hitokoto": "最后我还想再拜托你一件事，希望你可以把我忘掉。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "珂朵莉·诺塔·瑟尼欧里斯"
+ },
+ {
+  "hitokoto": "你们中的人，我已经忘记了一半以上。",
+  "type": "a",
+  "from": "末日时在做什么？有没有空？可以来拯救吗？",
+  "from_who": "珂朵莉·诺塔·瑟里欧尼斯"
+ },
+ {
+  "hitokoto": "无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "因为无法再见面，所以要笑着说再见。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即使从梦中醒来，还会有回忆留下。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "应该可以了吧，我已经很努力了，应该可以抵达终点了……",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我的终点，与幸福同在。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "嗯，一个人也要加油，我是坚强的孩子。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "应该可以了吧，我已经很努力了，应该可以抵达终点了…",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "人没有回忆是无法活下去的哟",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "应该可以了吧，我已经很努力了，应该可以抵达终点了……",
+  "type": "a",
+  "from": "AIR",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你知道吗？从人眼的高度能看到的地平线，是离自身的距离大约是4公里。",
+  "type": "a",
+  "from": "青春猪头少年不会梦到兔女郎学姐",
+  "from_who": null
+ },
+ {
+  "hitokoto": "既然今天是昨天，那么睡到明天就好。",
+  "type": "a",
+  "from": "青春猪头少年不会梦到兔女郎学姐",
+  "from_who": null
+ },
+ {
+  "hitokoto": "做不到的事没必要勉强去做，不也挺好吗？",
+  "type": "a",
+  "from": "青春猪头少年不会梦到兔女郎学姐",
+  "from_who": null
+ },
+ {
+  "hitokoto": "就算只有六十亿分之一的机会，我们还是会邂逅。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "无论在哪里遇到你，我都会喜欢上你。",
+  "type": "a",
+  "from": "AngleBeats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "所谓的人类，可是连短短的十分钟也等不起的。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "一个人走在路上，形单影只。回首望去，大家都留在远方。回过头来继续前行，这便是所谓坚强。",
+  "type": "a",
+  "from": "AngelBeats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你一直相信的事，也让我相信吧。活着，是件美好的事。",
+  "type": "a",
+  "from": "Angle Beats",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不管是怎样的回忆，都是我们活过的人生。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "孤独的我们才有人类的样子。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "声起立华乐独奏，曲末音无心结弦。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "音无结弦之日，跃动天使之心，立于浮华之世，奏响天籁之音。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "声起立华乐独奏，曲末音无心结弦。",
+  "type": "a",
+  "from": "Angel Beats!",
+  "from_who": null
+ },
+ {
+  "hitokoto": "有一天，你到了人类的世界，不要去爱上一个人，因为，爱上一个人，会让你真正变成孤单一人。",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "经为流逝的日月。纬为人们的生业。",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "悲痛的事，温柔以对；难过的事，坚强以对。",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "叫做妈妈的人，是不会哭的。",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "那么难受，那么痛苦，可是 世界这么美丽...让我如何能够忘记！",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": null
+ },
+ {
+  "hitokoto": "送走人间种种别离，送走世间种种变迁，逝者如斯，时光永远不会止步；我们会再度与人萍水相逢，相识相知，一同织下我们的人生。",
+  "type": "a",
+  "from": "朝花夕誓",
+  "from_who": "朝花夕誓"
+ },
+ {
+  "hitokoto": "坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方",
+  "type": "a",
+  "from": "比宇宙更远的地方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "乘上与平时相反的列车，为了去见从未见过的风景。",
+  "type": "a",
+  "from": "比宇宙更远的地方",
+  "from_who": null
+ },
+ {
+  "hitokoto": "是我，是我先，明明都是我先来的，接吻也好，拥抱也好，还是喜欢上那家伙也好。",
+  "type": "a",
+  "from": "白色相簿2",
+  "from_who": null
+ },
+ {
+  "hitokoto": "是我，是我先，明明都是我先来的……接吻也好，拥抱也好，还是喜欢上那家伙也好",
+  "type": "a",
+  "from": "白色相簿2",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你愿意陪我走到地狱的底端吗？",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": null
+ },
+ {
+  "hitokoto": "用我的左手将你那个不可理喻的幻想粉碎掉！",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即便我弱了，也并不代表你强了。",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": null
+ },
+ {
+  "hitokoto": "世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即使我弱了，也并不代表你强了",
+  "type": "a",
+  "from": "魔法禁书目录 第二季",
+  "from_who": null
+ },
+ {
+  "hitokoto": "即使我变弱了，也不代表你变强了。",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你那无聊的幻想，就由我来打破！",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": "上条当麻"
+ },
+ {
+  "hitokoto": "就算是我，也可以战斗，就算是我，也可以成为你的力量！",
+  "type": "a",
+  "from": "魔法禁书目录",
+  "from_who": "御坂美琴"
+ },
+ {
+  "hitokoto": "那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。",
+  "type": "a",
+  "from": "Darling in the FRANXX",
+  "from_who": null
+ },
+ {
+  "hitokoto": "这个世界啊，很美丽的，很广大的，很辽阔的！",
+  "type": "a",
+  "from": "Darling in the FRANXX",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。",
+  "type": "a",
+  "from": "Darling in the FRANXX",
+  "from_who": null
+ },
+ {
+  "hitokoto": "Ex - ploooosion !",
+  "type": "a",
+  "from": "为美好的世界献上祝福",
+  "from_who": null
+ },
+ {
+  "hitokoto": "Explotion！",
+  "type": "a",
+  "from": "为美好的世界献上祝福",
+  "from_who": "慧慧"
+ },
+ {
+  "hitokoto": "今后我们来度过满是愉快之事的人生吧",
+  "type": "a",
+  "from": "Charlotte",
+  "from_who": null
+ },
+ {
+  "hitokoto": "深藏不露是一种卓越的才能",
+  "type": "a",
+  "from": "欢迎来到实力至上主义的教室",
+  "from_who": null
+ },
+ {
+  "hitokoto": "这样叹气的话，幸福会像四处逃散的小蜘蛛一样溜走的。",
+  "type": "a",
+  "from": "辉夜大小姐想让我告白",
+  "from_who": null
+ },
+ {
+  "hitokoto": "正因为这样，我才决定任何时候都要尽全力享受人生，这样的话，无论什么时候死去，都是最幸福的一生了吧",
+  "type": "a",
+  "from": "恋爱随意链接",
+  "from_who": "青木义文"
+ },
+ {
+  "hitokoto": "正因为有了所有的过去，才成就了现在的我。否定自己所走过的路途，就意味着否定现在的自己。",
+  "type": "a",
+  "from": "恋爱随意链接",
+  "from_who": "永濑伊织"
+ },
+ {
+  "hitokoto": "每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我这个人呀，能过着这样平凡普通的日子就很开心了。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": null
+ },
+ {
+  "hitokoto": "每个人能走到现在，都是自己选择的结果。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": null
+ },
+ {
+  "hitokoto": "都说樱花飘落时让人伤感，而我看到樱花盛开也觉得伤感，因为我会计算，我还能再看几次樱花盛开呢。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": null
+ },
+ {
+  "hitokoto": "只要人活在这世上就一定是有意义的，怎么活是自己选的。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": null
+ },
+ {
+  "hitokoto": "山内有樱名为良，树本无名只待春。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": "住野夜"
+ },
+ {
+  "hitokoto": "樱花生在深山内，春树志向贺新春。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": "住野夜"
+ },
+ {
+  "hitokoto": "樱花易逝，春树常青。",
+  "type": "a",
+  "from": "我想吃掉你的胰脏",
+  "from_who": "住野夜"
+ },
+ {
+  "hitokoto": "大家热爱的事物，擅长的事物都不同，都拥有自己的世界，一个人一个世界，这些互相连接的话，就会展开许多的可能性，广大、未知，就像是宇宙一样。",
+  "type": "a",
+  "from": "恋爱小行星",
+  "from_who": "木之幡米拉"
+ },
+ {
+  "hitokoto": "无论人生过得怎么样，都不要失去自己活着的意义，努力的去追逐心中的梦想，留下自己曾经在这个世界活过的痕迹，不要等到一切都失去了才追悔莫及。",
+  "type": "a",
+  "from": "天使的心跳",
+  "from_who": "立华奏"
+ },
+ {
+  "hitokoto": "人生没有那么多预算，不要等到到死后世界叹息，珍惜眼前所有。相信每天都是新的开始，都充满希望.",
+  "type": "a",
+  "from": "天使的心跳",
+  "from_who": "立华奏"
+ },
+ {
+  "hitokoto": "真真需要记住的不是立华奏，而是天使身体里跳动的那颗永不结弦之心。",
+  "type": "a",
+  "from": "天使的心跳",
+  "from_who": "立华奏"
+ },
+ {
+  "hitokoto": "人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。",
+  "type": "a",
+  "from": "天使的心跳",
+  "from_who": "立华奏"
+ },
+ {
+  "hitokoto": "梦是现实的延续，现实是梦的终结。",
+  "type": "a",
+  "from": "Eva",
+  "from_who": "绫波丽"
+ },
+ {
+  "hitokoto": "总之就是非常可爱！",
+  "type": "a",
+  "from": "总之就是非常可爱",
+  "from_who": "由崎星空"
+ },
+ {
+  "hitokoto": "自认为为他人好而做的事情，并不一定正确。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "伊雷娜"
+ },
+ {
+  "hitokoto": "请别在意。我是旅人，得继续旅行才行。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "伊雷娜"
+ },
+ {
+  "hitokoto": "要是有事情不称心，就起身反抗吧。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "芙兰"
+ },
+ {
+  "hitokoto": "不要就是不要，要学会大声说出口，这样才能保护你自己。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "芙兰"
+ },
+ {
+  "hitokoto": "当真心想要做成一件事的时候，人总是孤独的，必须孤身一人，相互依赖上就完了。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "伊雷娜"
+ },
+ {
+  "hitokoto": "温柔与美丽，偶尔也是残忍的。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "伊雷娜"
+ },
+ {
+  "hitokoto": "过去的幸福，可以把不幸的人，推入更深的绝望。",
+  "type": "a",
+  "from": "魔女之旅",
+  "from_who": "伊雷娜"
+ },
+ {
+  "hitokoto": "十年前的你，喜欢过我吗？",
+  "type": "a",
+  "from": "路人女主的养成方法",
+  "from_who": "泽村·斯潘塞·英梨梨"
+ },
+ {
+  "hitokoto": "认识你，即是你的命运，也是我的命运，我们成为好朋友，我们的命运就都一下好了，而我们成为敌人，我们的命运就一起坏了。",
+  "type": "a",
+  "from": "魁拔",
+  "from_who": "青青树"
+ },
+ {
+  "hitokoto": "濒临死亡的体验其实很美妙，只是大多数人在体验过后就再也没有机会跟别人谈论这种感受了。",
+  "type": "a",
+  "from": "魁拔之书第二卷",
+  "from_who": "王川"
+ },
+ {
+  "hitokoto": "我愿用我余生换你岁月如歌，奈何阳错阴差，也许同归无路，究竟殊途……",
+  "type": "a",
+  "from": "魁拔",
+  "from_who": "王川"
+ },
+ {
+  "hitokoto": "我的小鱼你醒了，还认识早晨吗？昨夜你曾经说，愿夜幕永不开启。",
+  "type": "a",
+  "from": "魁拔",
+  "from_who": "青青树"
+ },
+ {
+  "hitokoto": "为了传达不到的思念而苦恼，只会感到痛不欲生。",
+  "type": "a",
+  "from": "WHITE FIRST LOVE",
+  "from_who": null
+ },
+ {
+  "hitokoto": "晨意微寒秋渐深，侧伴无事俏佳人。",
+  "type": "a",
+  "from": "WHITE ALBUM 2",
+  "from_who": "Kazusa"
+ },
+ {
+  "hitokoto": "梦里不觉秋已深，余情岂是为他人。",
+  "type": "a",
+  "from": "WHITE ALBUM2",
+  "from_who": "Kazusa"
+ },
+ {
+  "hitokoto": "失去了个性，和死掉没区别。",
+  "type": "a",
+  "from": "孤独摇滚",
+  "from_who": "山田凉"
+ },
+ {
+  "hitokoto": "若能与你化作星座，一起描绘星空中的梦想。",
+  "type": "a",
+  "from": "星座になれたら",
+  "from_who": "結束バンド"
+ },
+ {
+  "hitokoto": "越是锐利的小刀切完东西后就越容易变钝。",
+  "type": "c",
+  "from": "东方永夜抄",
+  "from_who": null
+ },
+ {
+  "hitokoto": "生生生生暗生始，死死死死冥死终。",
+  "type": "c",
+  "from": "东方永夜抄",
+  "from_who": null
+ },
+ {
+  "hitokoto": "少女祈祷中…",
+  "type": "c",
+  "from": "东方project",
+  "from_who": null
+ },
+ {
+  "hitokoto": "萤火之光看起来比平常要更耀眼是错觉吗？今宵会成为永夜的吧。",
+  "type": "c",
+  "from": "东方永夜抄",
+  "from_who": null
+ },
+ {
+  "hitokoto": "地上的光催我妒意，吹拂的风催我妒意。",
+  "type": "c",
+  "from": "东方地灵殿",
+  "from_who": null
+ },
+ {
+  "hitokoto": "梦比现实更易侵蚀人的精神，刻意准备的梦是危险的。",
+  "type": "c",
+  "from": "东方绀珠传 ～ Legacy of Lunatic Kingdom.",
+  "from_who": null
+ },
+ {
+  "hitokoto": "真正的恐怖，存在于约定俗成的恐怖之外。",
+  "type": "c",
+  "from": "东方永夜抄 ～ Imperishable Night.",
+  "from_who": null
+ },
+ {
+  "hitokoto": "春风起，花飘零，梦醒时分，却有几多愁，上心头。",
+  "type": "c",
+  "from": "东方project",
+  "from_who": "太田顺也"
+ },
+ {
+  "hitokoto": "对于永生之人，最大的敌人，是无聊。",
+  "type": "c",
+  "from": "东方永夜抄",
+  "from_who": "蓬莱山辉夜"
+ },
+ {
+  "hitokoto": "来吧，南无三！",
+  "type": "c",
+  "from": "东方project",
+  "from_who": "白莲"
+ },
+ {
+  "hitokoto": "嫉妒者也并非全是不幸者吧；正相反，因为这这份嫉妒，所以才会看起来是不幸的样子吧。",
+  "type": "c",
+  "from": "东方地灵殿",
+  "from_who": "ZUN"
+ },
+ {
+  "hitokoto": "招财猫本应既能招财又能招客，但她只要招了财和客的其中之一，就会让另外一方远离。",
+  "type": "c",
+  "from": "东方虹龙洞",
+  "from_who": "ZUN"
+ },
+ {
+  "hitokoto": "月之民不会就这样居住在污秽附近，他们一定会逃往梦境之类的地方。",
+  "type": "c",
+  "from": "东方绀珠传",
+  "from_who": "ZUN"
+ },
+ {
+  "hitokoto": "不共戴天之敌，嫦娥啊，你在看着吗？",
+  "type": "c",
+  "from": "东方绀珠传",
+  "from_who": "纯狐"
+ },
+ {
+  "hitokoto": "生生生生暗生始，死死死死冥死终。",
+  "type": "c",
+  "from": "东方永夜抄",
+  "from_who": "空海法师"
+ },
+ {
+  "hitokoto": "就算一次也好，我想在这颗星球上尽情奔跑。",
+  "type": "c",
+  "from": "Eden",
+  "from_who": null
+ },
+ {
+  "hitokoto": "纵使一次也好，我也想在这个星球上尽情奔跑啊！",
+  "type": "c",
+  "from": "Eden",
+  "from_who": "诗音"
+ },
+ {
+  "hitokoto": "那随风飘荡的蒲公英种子，会在什么时候决定自己的命运呢？",
+  "type": "c",
+  "from": "沙耶之歌",
+  "from_who": null
+ },
+ {
+  "hitokoto": "有了她灿烂的笑脸,有了活下去面对每一天的勇气。",
+  "type": "c",
+  "from": "沙耶之歌",
+  "from_who": null
+ },
+ {
+  "hitokoto": "最后呢，在这片沙漠之中，至少我能知道还会有一个，珍爱这朵花儿的人。有一个人就足够了。",
+  "type": "c",
+  "from": "沙耶之歌",
+  "from_who": null
+ },
+ {
+  "hitokoto": "纯氧对生物有害，毫无保留的真相，只会把人的精神击溃。一比五的氧与氮，才是可供呼吸的空气。同样，呼吸著以戏言稀释的少量真实，人才能维持健全的心。",
+  "type": "c",
+  "from": "沙耶之歌",
+  "from_who": null
+ },
+ {
+  "hitokoto": "让留下的人，笑着活下去",
+  "type": "c",
+  "from": "narcissu",
+  "from_who": null
+ },
+ {
+  "hitokoto": "狂战似魔，深谋如鬼。",
+  "type": "c",
+  "from": "三国杀 神司马懿",
+  "from_who": null
+ },
+ {
+  "hitokoto": "韬光养晦，静待时机",
+  "type": "c",
+  "from": "三国杀 神司马懿",
+  "from_who": null
+ },
+ {
+  "hitokoto": "污泥覆玉，顽石掩璞，痛哉！痛哉！",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "马均"
+ },
+ {
+  "hitokoto": "虚怀若谷，戒骄戒躁。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "陆逊"
+ },
+ {
+  "hitokoto": "虚争空言，不如思而试之。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "马钧"
+ },
+ {
+  "hitokoto": "非英杰不图？吾即谋之且射毕。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "刘焉"
+ },
+ {
+  "hitokoto": "纵使困顿难行，亦当砥砺奋进。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "姜维"
+ },
+ {
+  "hitokoto": "福生于清俭，德生于卑退。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "夏侯惇"
+ },
+ {
+  "hitokoto": "这长江天险后，便是江东铁壁。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "界徐盛"
+ },
+ {
+  "hitokoto": "百骑劫魏营，功震天下英。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "神甘宁"
+ },
+ {
+  "hitokoto": "犯大吴疆土者，盛必击而破之。",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "界徐盛"
+ },
+ {
+  "hitokoto": "马踏祁连山河动，兵起玄黄奈何天！",
+  "type": "c",
+  "from": "三国杀",
+  "from_who": "神马超"
+ },
+ {
+  "hitokoto": "虽然爱情主要取决于精神层面的东西，但是恋情却在相貌，气味等感官层面占的比例比较大。爱和恋并存，这才是所谓的恋爱啊",
+  "type": "c",
+  "from": "近月少女的礼仪",
+  "from_who": null
+ },
+ {
+  "hitokoto": "这个世界需要更多的英雄！",
+  "type": "c",
+  "from": "Overwatch",
+  "from_who": null
+ },
+ {
+  "hitokoto": "荣誉之于生死，救赎之于荣誉",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我也许不是好人，也不是坏人，但肯定不是小人。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我曾经也许是个好人，但现在，我只是个士兵。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "每个人都必须找到自己的使命。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我受到了召唤，我必须回应，一如既往。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "为荣耀而生，为荣誉而死。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "成败就此一战，我们必须拼尽全力。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "勇气并非来自体力，而是来自不屈不挠的意志。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "真正的大师，如艺术一般。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "谢谢，这个世界需要更多的英雄。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我受到了召唤，我必须回应，一如既往。",
+  "type": "c",
+  "from": "守望先锋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你充满了决心。",
+  "type": "c",
+  "from": "UNDERTALE",
+  "from_who": null
+ },
+ {
+  "hitokoto": "生命和死亡都是可以搬运的。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "每个人都有不愿回想的……记忆，而我能感知到这些。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我们的工作是搬运生命和死亡。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "如果争端能够避免，那我们应当沉默——如果战斗是必须的，那就战斗到最后！",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "欢迎回家，Dr。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "消磨时间尚有更好的方法。想不想尝试一下？",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "在黑暗中，我们看到光明。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "明日方舟"
+ },
+ {
+  "hitokoto": "我该用什么来回应你的不义。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "阿米娅"
+ },
+ {
+  "hitokoto": "新朋友，老对头……奇遇不会老去，陈旧的只有伤疤。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "生物趋利避害，生命自私无情。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你能预见，你能准备，你能承受，那你也能胜过不幸。",
+  "type": "c",
+  "from": "《明日方舟》",
+  "from_who": null
+ },
+ {
+  "hitokoto": "坚持坚持到绝望绝望。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "饰牌改变"
+ },
+ {
+  "hitokoto": "天有烘炉，地生五金，晖冶寒萃照云清。星藏点雪，月隐晦明，拙山枯水大江行。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "画中人"
+ },
+ {
+  "hitokoto": "狂风吹打山岩，自己却先粉身碎骨。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "翎羽"
+ },
+ {
+  "hitokoto": "见过沧海桑田，望过白日飞升，走过拙山枯水，笑过月隐晦明。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": null
+ },
+ {
+  "hitokoto": "泪锋之剑，当弃即弃。云裂之剑，当立则立。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "阿米娅"
+ },
+ {
+  "hitokoto": "落峰长日坠，起笔叠嶂升。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "夕"
+ },
+ {
+  "hitokoto": "我一直相信，一个人如果对谁都敞开心扉，那么，这个人心里一定不止一扇门。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "空"
+ },
+ {
+  "hitokoto": "胜败乃兵家常事，既然能进退自如，便不算完败。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "令"
+ },
+ {
+  "hitokoto": "云峦波涛，千里枯路，江山故人我，晚秋行舟。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "令"
+ },
+ {
+  "hitokoto": "长河千嶂，大荒孤城，历历在目。",
+  "type": "c",
+  "from": "明日方舟",
+  "from_who": "令"
+ },
+ {
+  "hitokoto": "明天会吹拂着明天的风。",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": null
+ },
+ {
+  "hitokoto": "虽然，灯塔已经失去了光明……但是，只要有你的那首歌在，就一定能将那些人再次导向此方。",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": null
+ },
+ {
+  "hitokoto": "就算我们知道了彼此总有一天会分别，现在的时光，也绝不是没有意义的。",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我会穿越那七大海洋，去和你相见。",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": null
+ },
+ {
+  "hitokoto": "帮助孩子，去实现他的梦想，对大人来说，那是无上的喜悦。",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我要把你叫醒，哪怕赌上我的一切。",
+  "type": "c",
+  "from": "SummerPocket",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我正在，寻找着我自己……请问，您知道些什么吗？",
+  "type": "c",
+  "from": "Summer Pockets",
+  "from_who": "紬·文德斯"
+ },
+ {
+  "hitokoto": "为了我，你就永远当个废物吧；为了能让我好好努力，就一生，都成为我的负担吧。",
+  "type": "c",
+  "from": "白色相簿2",
+  "from_who": null
+ },
+ {
+  "hitokoto": "I see the player you mean.",
+  "type": "c",
+  "from": "终末之诗",
+  "from_who": "Julian Gough"
+ },
+ {
+  "hitokoto": "这真是美好的一天，鸟儿在歌唱，鲜花在绽放……在这样的一天里，像你这样的孩子……应该在地狱里燃烧。",
+  "type": "c",
+  "from": "Undertale",
+  "from_who": "Sans"
+ },
+ {
+  "hitokoto": "大家都知道地下的生活不是一帆风顺，但我们依然报以微笑。",
+  "type": "c",
+  "from": "Undertale",
+  "from_who": "Toby fox"
+ },
+ {
+  "hitokoto": "用悲伤来治愈会摧毁它。而悲伤是它的私人事务。我们不能干涉。",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "终末之诗"
+ },
+ {
+  "hitokoto": "宇宙说：你所斗争的黑暗就在你心中，你所寻找的光明就在你心中。",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "终末之诗"
+ },
+ {
+  "hitokoto": "探索自己独一无二的世界，挺过黑夜，并创建您能想象的一切！",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "Minecraft"
+ },
+ {
+  "hitokoto": "宇宙说：你就是宇宙，品味自己，与自己对话，阅读着他自己的代码。",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "EndPoem"
+ },
+ {
+  "hitokoto": "文字创造出了一种美妙的界面，非常灵活，而且比起凝视屏幕后的现实来说，不会让人那么恐惧。",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "EndPoem"
+ },
+ {
+  "hitokoto": "曲终人散，黄粱一梦，该醒了！",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": "EndPoem"
+ },
+ {
+  "hitokoto": "Technoblade never dies!",
+  "type": "c",
+  "from": "Minecraft",
+  "from_who": null
+ },
+ {
+  "hitokoto": "夜醒众人漫漫夜，宝船乘风破浪声。",
+  "type": "c",
+  "from": "樱之诗",
+  "from_who": null
+ },
+ {
+  "hitokoto": "你当做秘密，而我信任你。若不是因为你，我将会长眠。",
+  "type": "c",
+  "from": "心跳文学部",
+  "from_who": "纱世里"
+ },
+ {
+  "hitokoto": "直到她永久沉睡的那一天，世界啊，请你一定不要终结。",
+  "type": "c",
+  "from": "eden*",
+  "from_who": "榛名亮"
+ },
+ {
+  "hitokoto": "这个世界本身啊，应该从未思考过任何事物吧。恶意也好，善意也罢，这类东西肯定是没有的。但是，仅仅，只是路过而已，我们就被它折腾得疲于奔命，因为我们在它眼里如同蚂蚁般微小。",
+  "type": "c",
+  "from": "青空下的加缪",
+  "from_who": "燐"
+ },
+ {
+  "hitokoto": "经历这种痛苦的人，我一个就够了！但为什么你就是不明白呢？！",
+  "type": "c",
+  "from": "美少女万华镜·理与迷宫的少女",
+  "from_who": "莲华"
+ },
+ {
+  "hitokoto": "我拒绝，再一次和你分开。",
+  "type": "c",
+  "from": "美少女万华镜·理与迷宫的少女",
+  "from_who": "夏彦深见"
+ },
+ {
+  "hitokoto": "所谓这个世界的真理，就是由爱所记录下的一切。",
+  "type": "c",
+  "from": "美少女万华镜·理与迷宫的少女",
+  "from_who": "夏彦深见"
+ },
+ {
+  "hitokoto": "只愿涤荡四方，护得一世之隅。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "米哈游"
+ },
+ {
+  "hitokoto": "我们都还没有说再见，所以我不会把它当做离别。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "空/莹"
+ },
+ {
+  "hitokoto": "只要不失去你的崇高，整个世界都会为你敞开。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "七天神像"
+ },
+ {
+  "hitokoto": "欲买桂花同载酒，只可惜故人，何日再见啊。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "但如果不去做的话，梦想永远也不会照进现实。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "小昭（璃月总务司文员）"
+ },
+ {
+  "hitokoto": "有死之隙是因为惧怕死亡，惧怕死亡是因为有挂念的事与人吧。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "流月针武器故事"
+ },
+ {
+  "hitokoto": "因为没有人能保证，把真相告诉无知的人，就能让现状变得更好而不是变槽。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "胡桃"
+ },
+ {
+  "hitokoto": "谁也没有见过风，更别说我和你了。谁也没有见过爱情，直到有束花抛向了自己。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "风华节纪行"
+ },
+ {
+  "hitokoto": "我们是不会分开的，对吗？我们还要一起走很远很远的路，度过好久好久的时光。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "派蒙"
+ },
+ {
+  "hitokoto": "现状越是难以置信，我们越是不能停下脚步，对吧？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "派蒙"
+ },
+ {
+  "hitokoto": "自从诞生于世，我们便开始向着孤独的尽头行走，但迷雾之中会有火光，夜空之下会有新的伙伴。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "式大将"
+ },
+ {
+  "hitokoto": "我们的使命，从不因远行而告终。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "式大将"
+ },
+ {
+  "hitokoto": "无论走了多远，遇到了什么，觉得动摇了，或者累了，至少还能想起今天的烟花。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "宵宫"
+ },
+ {
+  "hitokoto": "路很难走，但我们并不孤单。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "辛焱"
+ },
+ {
+  "hitokoto": "枝头有新花，树才能长青不老啊。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "萍姥姥"
+ },
+ {
+  "hitokoto": "越快乐，时光就流逝的越快…就像流水与落樱。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌华"
+ },
+ {
+  "hitokoto": "家人和亲缘，是我们谁都无法杜绝的羁绊…是我们在这个世界上最重要的「根」。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌华"
+ },
+ {
+  "hitokoto": "心有所向，日复一日，必有精进。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "原神"
+ },
+ {
+  "hitokoto": "曲高未必人不识，自有知音与清词。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "云瑾"
+ },
+ {
+  "hitokoto": "正是因为无法更改，无法违逆，只能接受，命运才能被称之为命运。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "莫娜"
+ },
+ {
+  "hitokoto": "总会有地上的生灵，敢于直面雷霆的威光。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "枫原万叶"
+ },
+ {
+  "hitokoto": "朋友，假使有一日不得不同你相别，你在我的记忆中也会如黄金般闪耀。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "风向是会转变的。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "人属于他出生的地方，畜生属于它吃饱的地方。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "阿祈"
+ },
+ {
+  "hitokoto": "风在云中，在雨中，在梦与花海之中，你在我身旁，在我眼中，在我因爱而波澜不断的心中。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "万花成风"
+ },
+ {
+  "hitokoto": "风带来故事的种子，时间使其发芽。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "世事易变，匪石弗转。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "若你困于无风之地，我将奏响高天之歌。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "天高散孤云，落日澄空故乡影，飘摇游子心。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "万叶"
+ },
+ {
+  "hitokoto": "孩童时期的梦是最易碎的东西，哪怕放着不管，也总有一天会自己碎掉。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "达达利亚"
+ },
+ {
+  "hitokoto": "与君相别离，不知何日是归期，我如朝露转瞬晞。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "花散里"
+ },
+ {
+  "hitokoto": "明霄升海平，飞彩镌流年。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "原神"
+ },
+ {
+  "hitokoto": "愿薪火相传，美德不灭。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "米哈游"
+ },
+ {
+  "hitokoto": "一筷食二轮烹三餐尽欢四海扬名五味俱全，六情通七仙贺八方飘香九霄得闻十分完满。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "米哈游"
+ },
+ {
+  "hitokoto": "年年今日，灯明如昼。原火不灭，愿人依旧。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "米哈游"
+ },
+ {
+  "hitokoto": "在这个真实得太过分的世界里，每个人都需要仰望星空。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "米哈游"
+ },
+ {
+  "hitokoto": "在黎明到来之前，必须要有人稍微照亮黑暗。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "迪卢克"
+ },
+ {
+  "hitokoto": "为反抗高歌！",
+  "type": "c",
+  "from": "原神",
+  "from_who": "辛焱"
+ },
+ {
+  "hitokoto": "曲高未必人不识，自有知音和清词。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神女劈观"
+ },
+ {
+  "hitokoto": "浮世景色百千年依旧，人之在世却如白露与泡影。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "雷电将军"
+ },
+ {
+  "hitokoto": "今古诸事，激荡中流，宏图待看新秀。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "刻晴"
+ },
+ {
+  "hitokoto": "烟花易逝，人情长存。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "宵宫"
+ },
+ {
+  "hitokoto": "接引春雷焚身骨，化灰以养万类荣。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "枫原万叶"
+ },
+ {
+  "hitokoto": "每个生灵的意志都值得被尊重，就像海中的游鱼，也有自己的方向。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "珊瑚宫心海"
+ },
+ {
+  "hitokoto": "生命是多种多样的自由之物，不应以长短定义优劣，哪怕只绽放一刹那……",
+  "type": "c",
+  "from": "原神",
+  "from_who": "白垩与黑龙活动剧情"
+ },
+ {
+  "hitokoto": "尘世最为殊胜尊贵之身、应持天下大权；此身曾许诺予臣民一梦，既是千秋万代不变不移的永恒。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "雷电将军"
+ },
+ {
+  "hitokoto": "岩间琉璃云间月。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "名片·云间"
+ },
+ {
+  "hitokoto": "既然事情已经发生，与其纠结成因，不如先着眼于事情本身。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌人"
+ },
+ {
+  "hitokoto": "如果事事都要追求一清二楚，那烦恼无穷无尽，而且没有效率。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌人"
+ },
+ {
+  "hitokoto": "没有任何人有资格剥夺他人的愿望，即便是「神」也不行。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "万叶"
+ },
+ {
+  "hitokoto": "戏会落幕，人生却不会。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "云堇"
+ },
+ {
+  "hitokoto": "如遇失道旷野之难，路遭贼人之难，水火刀兵之难，鬼神药毒之难，恶兽毒虫之难，冤家恶人之难，便呼我名。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "魈"
+ },
+ {
+  "hitokoto": "你是如何看待我们这些凡人的？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "志琼"
+ },
+ {
+  "hitokoto": "这无缘无故的攀比之心，是从何而来啊？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "你们对他的处境这么关心，最后却要推我出来干活，是不是不太公平?",
+  "type": "c",
+  "from": "原神",
+  "from_who": "八重神子"
+ },
+ {
+  "hitokoto": "被自由之神命令的自由，那还能被称之为自由吗？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "戴因斯雷布"
+ },
+ {
+  "hitokoto": "请，好好的看着我！",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里绫华"
+ },
+ {
+  "hitokoto": "失去听力的音乐家已然铸就传奇，没有运气的冒险家也在砥砺前行，拥有不幸之人都还在仰望着辰星，我等又何必低头拘泥脚下的尘泥？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "阿贝多"
+ },
+ {
+  "hitokoto": "听我说，最重要的，永远是「当前的选择」。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "久岐忍"
+ },
+ {
+  "hitokoto": "世间万物总有关联，一个简单的结果往往是由多种原因叠加而成。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌人"
+ },
+ {
+  "hitokoto": "世上没有什么巧合，一切都是在久远的过去埋下的种子，时间只是等它发芽。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "戴因斯雷布"
+ },
+ {
+  "hitokoto": "再会了，我的老友......今日一别，也是为了将来能有机会重聚。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "凝光"
+ },
+ {
+  "hitokoto": "不愿意沟通的话，问题就会永远留在那里；人们就看着，看着……直到眼睁睁地错过所有解决它的机会。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "宵宫"
+ },
+ {
+  "hitokoto": "在夜空所有星星熄灭的时候，所有梦想、所有溪流，都能汇入同一片大海中，那时我们终会相见。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "嫣朵拉"
+ },
+ {
+  "hitokoto": "我想要和你们一起旅行。去看看生命的小溪到海之前，会经历的夹岸繁花与天际云霞。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "嫣朵拉"
+ },
+ {
+  "hitokoto": "惊涛入海觅螭虎，风雪归山斩妖邪。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "铜雀"
+ },
+ {
+  "hitokoto": "我等必将复起，古木已发新枝。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "忍冬之树"
+ },
+ {
+  "hitokoto": "天动万象，山海化形，荒地生星，璨如烈阳。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "若陀"
+ },
+ {
+  "hitokoto": "一度相遇过的人，即便分开以后，彼此之间的缘也不会断开。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "枫原万叶"
+ },
+ {
+  "hitokoto": "漩涡无法击碎的磐岩，也终究会在时光的冲刷下磨损。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "我们都还没来得及说再见，所以，我不会把它当做离别。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "足迹"
+ },
+ {
+  "hitokoto": "最初的鸟儿是不会飞翔的，飞翔是他们勇敢跃入峡谷的奖励。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "当你重新踏上旅途之后，一定要记得旅途本身的意义。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "最了解一个人的，往往是他的敌人。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "前方等待着他的将是一场史无前例的雷暴；这一次，他不会绕行；雨与雷与他，终将相会于命运聚散之处。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "枫原万叶"
+ },
+ {
+  "hitokoto": "正是因为有大家的寄托，烟花才能以如此美妙的姿态一直存在下去吧。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "宵宫"
+ },
+ {
+  "hitokoto": "一切力量皆有其代价，一千种权利伴随着一千种责任。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "趴在草地上，能听见大地的心跳。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "甘雨"
+ },
+ {
+  "hitokoto": "用自己的双脚丈量土地，将未知变为知识。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "阿贝多"
+ },
+ {
+  "hitokoto": "幻如浮世，依附于本质而侥幸存有。寂乃本质，深隐于易碎泡影之下，其名永恒。唯有遵循应守之“律”，人才能获得解开一切问题的“法”。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "雷电将军"
+ },
+ {
+  "hitokoto": "它来自旅途的尽头、世界的边缘；来自你我心中，永不停歇。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "若你困与无风之地，我将奏响高天之歌。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "腾龙飞鳞，虽寿比山岳，终为土灰。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "送仙典仪讣告"
+ },
+ {
+  "hitokoto": "最初的鸟儿是不会飞翔的，飞翔是它们勇敢跃入峡谷的奖励。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "安柏"
+ },
+ {
+  "hitokoto": "有什么情绪就要发泄出来嘛，不要憋着。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "派蒙"
+ },
+ {
+  "hitokoto": "另外，人生在世，谁都不能保证遇到困难时会有人对自己出手相助。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里凌华"
+ },
+ {
+  "hitokoto": "疲倦的时候，做事总是觉得不顺手。如果太累了，就算是去玩耍，可能也高兴不起来吧。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "宵宫"
+ },
+ {
+  "hitokoto": "就像落水的人一样，手忙脚乱的挣扎，却还是坠入冰冷黑暗的深海。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "八重神子"
+ },
+ {
+  "hitokoto": "友情很重要，会影响到很多人。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "派蒙"
+ },
+ {
+  "hitokoto": "一定也有必须要去做的事吧？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "辛焱"
+ },
+ {
+  "hitokoto": "一定……一定还存在着只有我能做到的事。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "式大将"
+ },
+ {
+  "hitokoto": "现实残酷地对待我们，那我们就去把现实砸个粉碎！",
+  "type": "c",
+  "from": "原神",
+  "from_who": "荒泷一斗"
+ },
+ {
+  "hitokoto": "终点并不意味着一切，在抵达终点之前，用你的眼睛，多多观察这个世界吧……",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "于我而言，不变也是一种美好，哎呀，可尘世哪是如此不变之物。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "八重神子"
+ },
+ {
+  "hitokoto": "旅程总有一天会迎来终点，不必匆忙。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "赌徒永远会把希望寄托在下一颗骰子上…但最后赚钱的，当然是从来不碰骰子的庄家。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "凝光"
+ },
+ {
+  "hitokoto": "自我并非生命意义的全部，每一次行动都是对自我与世界的塑造。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "纳西妲"
+ },
+ {
+  "hitokoto": "新鲜感，就是来源于生活中的小小仪式。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "纳西妲"
+ },
+ {
+  "hitokoto": "若知是梦何须醒，不比真如一相会。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "神里绫华"
+ },
+ {
+  "hitokoto": "为何人们总是拼命证明……自己的存在比其他人更有价值呢？存在本身，就是足够美好的事情了吧？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "甘雨"
+ },
+ {
+  "hitokoto": "刀剑无眼，匠人有情。人情二字。不就是人类最引以为傲的事物吗？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "战局，没有所谓的弃子，因为对这盘棋局来说，「将杀」并非是终点。",
+  "type": "c",
+  "from": "原神·提瓦特篇",
+  "from_who": "冬夜愚戏"
+ },
+ {
+  "hitokoto": "你或许长生不老,注定孤独，可那只是暂时之事。当你来到时间的尽头，便会与过去未来所有因缘之人重逢。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "所谓的永恒，就是不再失去已拥有之物，但从别的角度说，也放弃了得到更多的可能，不过世事总是如此，没人能够得到全部。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "八重神子"
+ },
+ {
+  "hitokoto": "明明生命短暂，却能散发映昼光辉。他们之中，有些人的光芒，即使隔开久远时间长河都不曾黯淡。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "八重神子"
+ },
+ {
+  "hitokoto": "男子汉，就是要把痛苦和愤怒藏在背后，然后露出最爽朗的笑容！",
+  "type": "c",
+  "from": "原神",
+  "from_who": "荒泷一斗"
+ },
+ {
+  "hitokoto": "人生一途，如山路起伏，虽苦难万般，仍有触及云顶之时。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "旅程总有一天会迎来终点，不必匆忙。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "旅人将遍历的一万个故事,都将成为旅人灵魂的一部分。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "朋友，假使有一日不得不同你相别，你在我的记忆中也会如黄金般闪耀。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "与君初相识，犹似故人归。愿做云中星，照取夜旅人。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "天陨岩星，命昭昏暝。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "见证者，为见证而来。铭记者，因铭记而生。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "钟离"
+ },
+ {
+  "hitokoto": "你是万千星辰中的一颗，于我而言确是整个世界。",
+  "type": "c",
+  "from": "原神",
+  "from_who": null
+ },
+ {
+  "hitokoto": "虚空有计算不到的事物，人也不会被过去束缚。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "赛诺"
+ },
+ {
+  "hitokoto": "站在向阳处必能成就英雄，站在背阴处亦可引导灾祸……",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "但风向是会转变的。终有一天,会吹向更有光亮的方向。从今往后,带着我的祝福,活得更加从容一些吧。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "去追寻便好，哪怕只是「须臾」的光亮。至少，我们拥有「此刻」。",
+  "type": "c",
+  "from": "原神",
+  "from_who": "雷电真"
+ },
+ {
+  "hitokoto": "故友的灵魂，能交给我吗？",
+  "type": "c",
+  "from": "原神",
+  "from_who": "温迪"
+ },
+ {
+  "hitokoto": "每个人都有优势和弱势，也有不断提升自我的能力；而提升自我的第一步，就是学会反思，以及察觉自己的问题。",
+  "type": "c",
+  "from": "Doki Doki Literature Club Plus!",
+  "from_who": "Monika"
+ },
+ {
+  "hitokoto": "我们之所以与其他人分享交流，是因为想要向他人展现自我、向他人诉说自己的经历。",
+  "type": "c",
+  "from": "Doki Doki Literature Club Plus!",
+  "from_who": "Monika"
+ },
+ {
+  "hitokoto": "朝星空直接伸出手去，你永远只会觉得星星遥不可及，不是吗？",
+  "type": "c",
+  "from": "Doki Doki Literature Club Plus!",
+  "from_who": "Monika"
+ },
+ {
+  "hitokoto": "不忘痛苦是为了让自己活下去啊。",
+  "type": "c",
+  "from": "爱上火车-Pure Station-",
+  "from_who": "凪"
+ },
+ {
+  "hitokoto": "我们最应该关注的是自己的内心，如果内心蒙上了阴影，那么我们所看到的都将是蒙尘的景象。",
+  "type": "c",
+  "from": "爱上火车Lastrun",
+  "from_who": "双铁"
+ },
+ {
+  "hitokoto": "珍惜眼前的幸福吧，而不是去奢求无法得到的东西。",
+  "type": "c",
+  "from": "爱上火车Lastrun",
+  "from_who": "深美"
+ },
+ {
+  "hitokoto": "在紧重的工作压力下不得不讲究轻重缓急的我们，是不是渐渐遗失了一些什么？",
+  "type": "c",
+  "from": "爱上火车Lastrun",
+  "from_who": "双铁"
+ },
+ {
+  "hitokoto": "这个世界就像个巨大的充满宝石的宝石箱，璀璨夺目，犹如一个熠熠生辉的宝石箱。",
+  "type": "c",
+  "from": "星空列车与白的旅行",
+  "from_who": "さかき傘"
+ },
+ {
+  "hitokoto": "祈祷着今后的你的人生，永远都有幸福的“魔法”相伴。",
+  "type": "c",
+  "from": "樱花，萌放。",
+  "from_who": null
+ },
+ {
+  "hitokoto": "无论如何，你依然是你。",
+  "type": "c",
+  "from": "undertale",
+  "from_who": "Toby Fox"
+ },
+ {
   "hitokoto": "我喜欢你",
   "type": "m",
   "from": "ludan0414",
