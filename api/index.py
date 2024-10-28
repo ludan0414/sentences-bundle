@@ -14,11 +14,14 @@ app.config['JSON_AS_ASCII'] = False
     
 @app.route('/',methods=['GET'])
 def hitokoto():
-    return 'test'
-    load()
-    num = random.randint(0,len(data)-1)
-    hitokoto = data[num]
-    return jsonify(hitokoto)
+    #return 'test'
+    try:
+        load()
+        num = random.randint(0,len(data)-1)
+        hitokoto = data[num]
+        return jsonify(hitokoto)
+    except Exception:
+        return 'fuck'
         
 @app.route('/test',methods=['GET'])
 def test():
