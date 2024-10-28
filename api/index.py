@@ -5,7 +5,7 @@ data = None
 def load():
     global loaded, data
     if not loaded:
-        with open('/cat.json','r',encoding='utf-8') as fp:
+        with open('../cat.json','r',encoding='utf-8') as fp:
             data = json.load(fp)
         loaded = True
     
@@ -14,14 +14,14 @@ app.config['JSON_AS_ASCII'] = False
     
 @app.route('/',methods=['GET'])
 def hitokoto():
-    #return 'test'
+    global data
     try:
         load()
         num = random.randint(0,len(data)-1)
         hitokoto = data[num]
         return jsonify(hitokoto)
-    except Exception:
-        return 'fuck'
+    except Exception as err:
+        return err.__str__()
         
 @app.route('/test',methods=['GET'])
 def test():
