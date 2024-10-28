@@ -14,6 +14,7 @@ app.config['JSON_AS_ASCII'] = False
     
 @app.route('/',methods='GET')
 def hitokoto():
+    return 'test'
     load()
     num = random.randint(0,len(data)-1)
     hitokoto = data[num]
@@ -21,9 +22,11 @@ def hitokoto():
         
 @app.route('/test',methods='GET')
 def hitokoto():
-    return 'test'
+    return 'testtest'
     load()
     num = random.randint(0,len(data)-1)
     hitokoto = data[num]
     return jsonify(hitokoto)
-    
+
+if __name__ == '__main__':
+    app.run(debug = True)
