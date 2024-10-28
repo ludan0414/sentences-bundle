@@ -19,4 +19,11 @@ def hitokoto():
     hitokoto = data[num]
     return jsonify(hitokoto)
         
+@app.route('/test',methods='GET')
+def hitokoto():
+    return 'test'
+    load()
+    num = random.randint(0,len(data)-1)
+    hitokoto = data[num]
+    return jsonify(hitokoto)
     
