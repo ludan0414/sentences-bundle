@@ -5,8 +5,12 @@ data = None
 def load():
     global loaded, data
     if not loaded:
+        url = requests.get("https://hitokoto-navy.vercel.app/cat.json")
+        data = json.loads(url.text)
+        '''
         with open('/cat.json','r',encoding='utf-8') as fp:
             data = json.load(fp)
+        '''
         loaded = True
     
 app = Flask(__name__)
