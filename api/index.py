@@ -5,7 +5,7 @@ data = None
 def load():
     global loaded, data
     if not loaded:
-        with open('../cat.json','r',encoding='utf-8') as fp:
+        with open('/cat.json','r',encoding='utf-8') as fp:
             data = json.load(fp)
         loaded = True
     
