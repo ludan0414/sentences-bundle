@@ -12,7 +12,7 @@ def load():
 app = Flask(__name__)
 app.config['JSON_AS_ASCII'] = False
     
-@app.route('/',methods='GET')
+@app.route('/',methods=['GET'])
 def hitokoto():
     return 'test'
     load()
@@ -20,7 +20,7 @@ def hitokoto():
     hitokoto = data[num]
     return jsonify(hitokoto)
         
-@app.route('/test',methods='GET')
+@app.route('/test',methods=['GET'])
 def hitokoto():
     return 'testtest'
     load()
