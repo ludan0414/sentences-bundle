@@ -6,6 +6,7 @@ def load():
     global loaded, data
     if not loaded:
         url = requests.get("https://hitokoto-navy.vercel.app/cat.json")
+        url.encoding = 'utf-8'
         data = json.loads(url.text)
         '''
         with open('/cat.json','r',encoding='utf-8') as fp:
@@ -14,7 +15,8 @@ def load():
         loaded = True
     
 app = Flask(__name__)
-app.config['JSON_AS_ASCII'] = False
+# app.config['JSON_AS_ASCII'] = False
+app.json.ensure_ascii = False
     
 @app.route('/',methods=['GET'])
 def hitokoto():
@@ -23,6 +25,7 @@ def hitokoto():
         load()
         num = random.randint(0,len(data)-1)
         hitokoto = data[num]
+        
         return jsonify(hitokoto)
     except Exception as err:
         return err.__str__()
@@ -36,4 +39,4 @@ def test():
     return jsonify(hitokoto)
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run()
