@@ -24,8 +24,8 @@ def hitokoto():
     try:
         load()
         args = request.args
-        if 'id' in args and 0 <= args['id'] < len(data):
-            num = args['id']
+        if 'id' in args and 0 <= int(args['id']) < len(data):
+            num = int(args['id'])
         else:
             num = random.randint(0,len(data)-1)
         hitokoto = data[num]
