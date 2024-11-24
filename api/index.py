@@ -23,7 +23,11 @@ def hitokoto():
     global data
     try:
         load()
-        num = random.randint(0,len(data)-1)
+        args = request.args
+        if 'id' in args and 0 <= args['id'] < len(data):
+            num = args['id']
+        else:
+            num = random.randint(0,len(data)-1)
         hitokoto = data[num]
         
         return jsonify(hitokoto)
