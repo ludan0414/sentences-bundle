@@ -1,11 +1,12 @@
 from flask import Flask, request, jsonify
 import requests, json, random
+from time import sleep
 loaded = False
-data = None
+data = dict()
 def load():
     global loaded, data
     if not loaded:
-        url = requests.get("https://hitokoto-navy.vercel.app/cat.json")
+        url = requests.get("https://hitokoto.ludan.fun/cat.json")
         url.encoding = 'utf-8'
         data = json.loads(url.text)
         '''
@@ -20,7 +21,7 @@ app.json.ensure_ascii = False
     
 @app.route('/',methods=['GET','POST'])
 def hitokoto():
-    global data
+    global data,loaded
     try:
         load()
         args = request.args
@@ -31,8 +32,9 @@ def hitokoto():
             if speaker == 'genshin':
                 speaker = '原神'
             retlist = []
-            for hitokoto in data:
-                if speaker in hitokoto['from'] or speaker in hitokoto['from_who']:
+            for i in range(len(data)):
+                hitokoto = data[i]
+                if speaker in hitokoto['from'] or ((hitokoto['from_who'] is not None) and speaker in hitokoto['from_who']):
                     retlist.append(hitokoto)
             if len(retlist) > 0:
                 num = random.randint(0,len(retlist)-1)
