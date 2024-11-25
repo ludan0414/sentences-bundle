@@ -18,18 +18,32 @@ app = Flask(__name__)
 # app.config['JSON_AS_ASCII'] = False
 app.json.ensure_ascii = False
     
-@app.route('/',methods=['GET'])
+@app.route('/',methods=['GET','POST'])
 def hitokoto():
     global data
     try:
         load()
         args = request.args
+        if 'from' in args:
+            speaker = args['from']
+            if speaker == 'whale':
+                speaker = '🐋'
+            if speaker == 'genshin':
+                speaker = '原神'
+            retlist = []
+            for hitokoto in data:
+                if speaker in hitokoto['from'] or speaker in hitokoto['from_who']:
+                    retlist.append(hitokoto)
+            if len(retlist) > 0:
+                num = random.randint(0,len(retlist)-1)
+                return jsonify(retlist[num])
+        
         if 'id' in args and 0 <= int(args['id']) < len(data):
             num = int(args['id'])
         else:
             num = random.randint(0,len(data)-1)
-        hitokoto = data[num]
         
+        hitokoto = data[num]
         return jsonify(hitokoto)
     except Exception as err:
         return err.__str__()
