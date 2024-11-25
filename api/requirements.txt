@@ -2,3 +2,4 @@ Flask
 requests
 pyjson
 pyrandom
+flask_cors
