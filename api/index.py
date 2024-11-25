@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import requests, json, random
-from time import sleep
+from flask_cors import CORS
 loaded = False
 data = dict()
 def load():
@@ -9,13 +9,10 @@ def load():
         url = requests.get("https://hitokoto.ludan.fun/cat.json")
         url.encoding = 'utf-8'
         data = json.loads(url.text)
-        '''
-        with open('/cat.json','r',encoding='utf-8') as fp:
-            data = json.load(fp)
-        '''
         loaded = True
     
 app = Flask(__name__)
+CORS(app, resources=r'/*')
 # app.config['JSON_AS_ASCII'] = False
 app.json.ensure_ascii = False
     
