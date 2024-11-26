@@ -3,6 +3,7 @@ import requests, json, random
 from flask_cors import CORS
 loaded = False
 data = dict()
+query = []
 def load():
     global loaded, data
     if not loaded:
@@ -16,9 +17,9 @@ CORS(app, resources=r'/*')
 # app.config['JSON_AS_ASCII'] = False
 app.json.ensure_ascii = False
     
-@app.route('/',methods=['GET','POST'])
+@app.route('/',methods=['GET'])
 def hitokoto():
-    global data,loaded
+    global data
     try:
         load()
         args = request.args
@@ -47,6 +48,22 @@ def hitokoto():
     except Exception as err:
         return err.__str__()
         
+@app.route('/',methods=['POST'])
+def sl():
+    global query
+    try:
+        fdata = request.get_json()
+        if fdata['op'] == 'save':
+            query.append(fdata)
+            return jsonify({'status':'ok'})
+        if fdata['op'] == 'load':
+            return jsonify(query)
+        return jsonify({'status':'invalid operand'})
+    except Exception as err:
+        return err.__str__()
+    
+
+
 @app.route('/test',methods=['GET'])
 def test():
     return 'testtest'
