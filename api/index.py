@@ -4,14 +4,23 @@ from flask_cors import CORS
 loaded = False
 data = dict()
 query = []
+cname = 'https://hitokoto.ludan.fun'
 def load():
     global loaded, data
     if not loaded:
-        url = requests.get("https://hitokoto.ludan.fun/cat.json")
+        url = requests.get(cname+"/cat.json")
         url.encoding = 'utf-8'
         data = json.loads(url.text)
         loaded = True
+def loadori():
+    global data
+    retlist = []
+    for hitokoto in data:
+        if hitokoto['type'] == 'a' or hitokoto['type'] == 'c':
+            retlist.append(hitokoto)
+    return jsonify(random.choice(retlist))
     
+
 app = Flask(__name__)
 CORS(app, resources=r'/*')
 # app.config['JSON_AS_ASCII'] = False
@@ -29,6 +38,8 @@ def hitokoto():
                 speaker = '🐋'
             if speaker == 'genshin':
                 speaker = '原神'
+            if speaker == 'original':
+                return loadori()
             retlist = []
             for i in range(len(data)):
                 hitokoto = data[i]
@@ -43,8 +54,7 @@ def hitokoto():
         else:
             num = random.randint(0,len(data)-1)
         
-        hitokoto = data[num]
-        return jsonify(hitokoto)
+        return jsonify(data[num])
     except Exception as err:
         return err.__str__()
         
