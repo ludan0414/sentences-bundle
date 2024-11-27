@@ -24,6 +24,8 @@ if __name__ == '__main__':
                 break
             o = fp.readline().replace("\n","")
             t = fp.readline().replace("\n","")
+            if t == '-1':
+                break
             if t != '':
                 fp.readline().replace("\n","")
             tmp = dict()
