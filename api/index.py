@@ -19,7 +19,22 @@ def loadori():
         if hitokoto['type'] == 'a' or hitokoto['type'] == 'c':
             retlist.append(hitokoto)
     return jsonify(random.choice(retlist))
-    
+def search(cont:str):
+    global data
+    retlist = []
+    for hitokoto in data:
+        if cont in hitokoto['hitokoto'] \
+            or cont in hitokoto['from'] \
+            or (hitokoto['from_who'] is not None and cont in hitokoto['from_who']):
+            retlist.append(hitokoto)
+    if len(retlist) == 0:
+        return jsonify({
+            "hitokoto": "not found",
+            "type": None,
+            "from": None,
+            "from_who": None
+        })
+    return jsonify(random.choice(retlist))
 
 app = Flask(__name__)
 CORS(app, resources=r'/*')
@@ -48,6 +63,9 @@ def hitokoto():
             if len(retlist) > 0:
                 num = random.randint(0,len(retlist)-1)
                 return jsonify(retlist[num])
+        
+        if 'search' in args:
+            return search(args['search'])
         
         if 'id' in args and 0 <= int(args['id']) < len(data):
             num = int(args['id'])
