@@ -4764,7 +4764,7 @@
   "from_who": null
  },
  {
-  "hitokoto": "🐋的代码水平和高一相比没什么进步（（",
+  "hitokoto": "<del>🐋的代码水平和高一相比没什么进步（（</del>我错了，进步很大！",
   "type": "m",
   "from": "ludan0414",
   "from_who": null
@@ -5145,6 +5145,24 @@
   "hitokoto": "你说得对，但是「ics」是一款第一人称开放世界冒险游戏。你将扮演一个作业做不出来的学生，通过「attack (auto)lab」获取助教的标准答案，并逐步找到「lab查重」的真相。",
   "type": "m",
   "from": "ludan0414原创",
+  "from_who": null
+ },
+ {
+  "hitokoto": "不愧是你",
+  "type": "m",
+  "from": "🐋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "霸道皇上强制爱",
+  "type": "m",
+  "from": "ludan0414",
+  "from_who": null
+ },
+ {
+  "hitokoto": "盒一下盒盒",
+  "type": "m",
+  "from": "🐋",
   "from_who": null
  }
 ]
