@@ -8,7 +8,7 @@ cname = 'https://hitokoto.ludan.fun'
 def load():
     global loaded, data
     if not loaded:
-        url = requests.get(cname+"/cat.json")
+        url = requests.get(cname+"/cat.json", verify=False)
         url.encoding = 'utf-8'
         data = json.loads(url.text)
         loaded = True
