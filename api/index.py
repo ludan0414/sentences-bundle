@@ -4,7 +4,7 @@ from flask_cors import CORS
 loaded = False
 data = dict()
 query = []
-cname = 'https://hitokoto.ludan.fun'
+cname = 'https://hitokoto.ludan.space'
 def load():
     global loaded, data
     if not loaded:
