@@ -26,14 +26,14 @@ services:
         memorySize: 128
         cpu: 0.05
         timeout: 60
-        codeUri: ./
+        codeUri: ./api
         diskSize: 512
         caPort: 9000
         customRuntimeConfig:
           command:
             - python
           args:
-            - api/index.py
+            - index.py
       triggers:
         - name: httpTrigger
           type: http
