@@ -1,9 +1,6 @@
 from flask import Flask, request, jsonify
 import requests, json, random
-try:
-    from modules.flask_cors import CORS
-except:
-    from flask_cors import CORS
+from flask_cors import CORS
 loaded = False
 data = dict()
 query = []
@@ -104,4 +101,4 @@ def test():
     return jsonify(hitokoto)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0',port=9000)
