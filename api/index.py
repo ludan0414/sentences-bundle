@@ -1,6 +1,9 @@
 from flask import Flask, request, jsonify
 import requests, json, random
-from flask_cors import CORS
+try:
+    from modules.flask_cors import CORS
+except:
+    from flask_cors import CORS
 loaded = False
 data = dict()
 query = []
