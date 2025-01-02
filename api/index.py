@@ -9,7 +9,7 @@ def load():
     global loaded, data
     if not loaded:
         try:
-            with open('../cat.json', 'r', encoding='utf-8') as f:
+            with open('./cat.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
             loaded = True
         except:
