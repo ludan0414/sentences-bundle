@@ -8,10 +8,15 @@ cname = 'https://hitokoto.ludan.space'
 def load():
     global loaded, data
     if not loaded:
-        url = requests.get(cname+"/cat.json", verify=False)
-        url.encoding = 'utf-8'
-        data = json.loads(url.text)
-        loaded = True
+        try:
+            with open('../cat.json', 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            loaded = True
+        except:
+            url = requests.get(cname+"/cat.json", verify=False)
+            url.encoding = 'utf-8'
+            data = json.loads(url.text)
+            loaded = True
 def loadori():
     global data
     retlist = []
