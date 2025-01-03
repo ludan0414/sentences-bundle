@@ -81,29 +81,6 @@ def hitokoto():
     except Exception as err:
         return err.__str__()
         
-@app.route('/',methods=['POST'])
-def sl():
-    global query
-    try:
-        fdata = request.get_json()
-        if fdata['op'] == 'save':
-            query.append(fdata)
-            return jsonify({'status':'ok'})
-        if fdata['op'] == 'load':
-            return jsonify(query)
-        return jsonify({'status':'invalid operand'})
-    except Exception as err:
-        return err.__str__()
-    
-
-
-@app.route('/test',methods=['GET'])
-def test():
-    return 'testtest'
-    load()
-    num = random.randint(0,len(data)-1)
-    hitokoto = data[num]
-    return jsonify(hitokoto)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=9000)
