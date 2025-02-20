@@ -5572,5 +5572,35 @@
   "type": "m",
   "from": "ludan0414",
   "from_who": null
+ },
+ {
+  "hitokoto": "服务器繁忙，请稍后再试。",
+  "type": "m",
+  "from": "deep🐋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "思考已停止",
+  "type": "m",
+  "from": "🐋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "服务器繁忙，请稍后再试。",
+  "type": "m",
+  "from": "deepseek",
+  "from_who": null
+ },
+ {
+  "hitokoto": "我不是人",
+  "type": "m",
+  "from": "🐋",
+  "from_who": null
+ },
+ {
+  "hitokoto": "小丑",
+  "type": "m",
+  "from": "🐋",
+  "from_who": null
  }
 ]
