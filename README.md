@@ -35,4 +35,4 @@
 
 ## API调用
 
-域名：[hitokoto.ludan.fun](https://hitokoto.ludan.fun)。可以返回一条随机的一言。from参数可以指定一些说话人，id参数可以指定一言的编号。欢迎使用！
+域名：[hitokoto.ludan.space](https://hitokoto.ludan.space)。可以返回一条随机的一言。from参数可以指定一些说话人，id参数可以指定一言的编号。欢迎使用！
