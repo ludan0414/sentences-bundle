@@ -1,0 +1,1318 @@
+{
+ "upstream_repository": "https://github.com/hitokoto-osc/sentences-bundle",
+ "upstream_branch": "master",
+ "upstream_commit": "c169bae5faed220a7026b3b397f153f2dc2b2af8",
+ "format": [
+  "hitokoto",
+  "type",
+  "from",
+  "from_who"
+ ],
+ "original_catalog_count": 938,
+ "automatic_source_codes": [
+  "A002",
+  "A003",
+  "A005",
+  "A008",
+  "A009",
+  "A010",
+  "A012",
+  "A015",
+  "A016",
+  "A017",
+  "A019",
+  "A020",
+  "A021",
+  "A023",
+  "A024",
+  "A025",
+  "A026",
+  "A028",
+  "A030",
+  "A035",
+  "A036",
+  "A037",
+  "A038",
+  "A042",
+  "A043",
+  "A044",
+  "A045",
+  "A047",
+  "A048",
+  "A050",
+  "A051",
+  "A054",
+  "A056",
+  "A058",
+  "A059",
+  "A063",
+  "A068",
+  "A070",
+  "A076",
+  "A081",
+  "A084",
+  "A091",
+  "A093",
+  "A094",
+  "A098",
+  "A105",
+  "A106",
+  "A108",
+  "A112",
+  "A125",
+  "A127",
+  "A128",
+  "A133",
+  "A134",
+  "A140",
+  "A141",
+  "A152",
+  "A153",
+  "A159",
+  "A165",
+  "A173",
+  "A180",
+  "A186",
+  "A190",
+  "A192",
+  "A207",
+  "A211",
+  "A212",
+  "A213",
+  "A214",
+  "A224",
+  "A225",
+  "A226",
+  "A231",
+  "A232",
+  "A233",
+  "A251",
+  "A252",
+  "A253",
+  "A257",
+  "A290",
+  "A291",
+  "A292",
+  "A293",
+  "A296",
+  "A308",
+  "A309",
+  "A333",
+  "A362",
+  "A363",
+  "A364",
+  "A365",
+  "A378",
+  "A380",
+  "A391",
+  "A399",
+  "A421",
+  "A422",
+  "A430",
+  "A444",
+  "A458",
+  "A459",
+  "A460",
+  "A471",
+  "A472",
+  "A480",
+  "A504",
+  "A513",
+  "A516",
+  "A535",
+  "A536",
+  "A542",
+  "A554",
+  "A568",
+  "A569",
+  "A571",
+  "A585",
+  "A599",
+  "A600",
+  "A603",
+  "A616",
+  "A620",
+  "A621",
+  "A622",
+  "A624",
+  "B003",
+  "B007",
+  "B019",
+  "B028",
+  "B050",
+  "B052",
+  "B062",
+  "C001",
+  "C002",
+  "C009",
+  "C015",
+  "C016",
+  "C019",
+  "C020",
+  "C027",
+  "C028",
+  "C029",
+  "C031",
+  "C033",
+  "C042",
+  "C043",
+  "C052",
+  "C053",
+  "C056",
+  "C058",
+  "C060",
+  "C068",
+  "C070",
+  "C076",
+  "C077",
+  "C078",
+  "C090",
+  "C102",
+  "C107",
+  "C113",
+  "C121",
+  "C130",
+  "C146",
+  "C147",
+  "C148",
+  "C153",
+  "C159",
+  "C160",
+  "C199",
+  "C201",
+  "C204",
+  "C208",
+  "C210",
+  "C211",
+  "C234",
+  "C237",
+  "C292",
+  "C297",
+  "C298",
+  "C310",
+  "C314",
+  "C318",
+  "C319",
+  "C326",
+  "C360"
+ ],
+ "manual_source_codes": [
+  "A014",
+  "A018",
+  "A033",
+  "A040",
+  "A041",
+  "A057",
+  "A060",
+  "A062",
+  "A064",
+  "A069",
+  "A073",
+  "A074",
+  "A083",
+  "A107",
+  "A110",
+  "A113",
+  "A115",
+  "A122",
+  "A129",
+  "A136",
+  "A138",
+  "A195",
+  "B017",
+  "B004",
+  "B033",
+  "C014",
+  "C026",
+  "C030",
+  "C062",
+  "C073",
+  "C074"
+ ],
+ "selected_sources": [
+  {
+   "code": "A002",
+   "category": "a",
+   "source": "四月是你的谎言"
+  },
+  {
+   "code": "A003",
+   "category": "a",
+   "source": "我的青春恋爱物语果然有问题"
+  },
+  {
+   "code": "A005",
+   "category": "a",
+   "source": "你的名字"
+  },
+  {
+   "code": "A008",
+   "category": "a",
+   "source": "秒速五厘米"
+  },
+  {
+   "code": "A009",
+   "category": "a",
+   "source": "JOJO的奇妙冒险"
+  },
+  {
+   "code": "A010",
+   "category": "a",
+   "source": "CLANNAD"
+  },
+  {
+   "code": "A012",
+   "category": "a",
+   "source": "Clannad"
+  },
+  {
+   "code": "A015",
+   "category": "a",
+   "source": "名侦探柯南"
+  },
+  {
+   "code": "A016",
+   "category": "a",
+   "source": "进击的巨人"
+  },
+  {
+   "code": "A017",
+   "category": "a",
+   "source": "月色真美"
+  },
+  {
+   "code": "A019",
+   "category": "a",
+   "source": "日常"
+  },
+  {
+   "code": "A020",
+   "category": "a",
+   "source": "AIR"
+  },
+  {
+   "code": "A021",
+   "category": "a",
+   "source": "EVA"
+  },
+  {
+   "code": "A023",
+   "category": "a",
+   "source": "千与千寻"
+  },
+  {
+   "code": "A024",
+   "category": "a",
+   "source": "可塑性记忆"
+  },
+  {
+   "code": "A025",
+   "category": "a",
+   "source": "大鱼海棠"
+  },
+  {
+   "code": "A026",
+   "category": "a",
+   "source": "我想吃掉你的胰脏"
+  },
+  {
+   "code": "A028",
+   "category": "a",
+   "source": "魔法少女小圆"
+  },
+  {
+   "code": "A030",
+   "category": "a",
+   "source": "末日时在做什么？有没有空？可以来拯救吗？"
+  },
+  {
+   "code": "A035",
+   "category": "a",
+   "source": "天气之子"
+  },
+  {
+   "code": "A036",
+   "category": "a",
+   "source": "未闻花名"
+  },
+  {
+   "code": "A037",
+   "category": "a",
+   "source": "果然我的青春恋爱喜剧搞错了"
+  },
+  {
+   "code": "A038",
+   "category": "a",
+   "source": "某科学的超电磁炮"
+  },
+  {
+   "code": "A042",
+   "category": "a",
+   "source": "魔女之旅"
+  },
+  {
+   "code": "A043",
+   "category": "a",
+   "source": "魔法禁书目录"
+  },
+  {
+   "code": "A044",
+   "category": "a",
+   "source": "龙与虎"
+  },
+  {
+   "code": "A045",
+   "category": "a",
+   "source": "Angel Beats!"
+  },
+  {
+   "code": "A047",
+   "category": "a",
+   "source": "凉宫春日的忧郁"
+  },
+  {
+   "code": "A048",
+   "category": "a",
+   "source": "哈尔的移动城堡"
+  },
+  {
+   "code": "A050",
+   "category": "a",
+   "source": "境界的彼方"
+  },
+  {
+   "code": "A051",
+   "category": "a",
+   "source": "天空之城"
+  },
+  {
+   "code": "A054",
+   "category": "a",
+   "source": "朝花夕誓"
+  },
+  {
+   "code": "A056",
+   "category": "a",
+   "source": "樱花庄的宠物女孩"
+  },
+  {
+   "code": "A058",
+   "category": "a",
+   "source": "逢坂大河"
+  },
+  {
+   "code": "A059",
+   "category": "a",
+   "source": "冰菓"
+  },
+  {
+   "code": "A063",
+   "category": "a",
+   "source": "幸运星"
+  },
+  {
+   "code": "A068",
+   "category": "a",
+   "source": "秒速5厘米"
+  },
+  {
+   "code": "A070",
+   "category": "a",
+   "source": "言叶之庭"
+  },
+  {
+   "code": "A076",
+   "category": "a",
+   "source": "东京喰种"
+  },
+  {
+   "code": "A081",
+   "category": "a",
+   "source": "天使的心跳"
+  },
+  {
+   "code": "A084",
+   "category": "a",
+   "source": "孤独摇滚！"
+  },
+  {
+   "code": "A091",
+   "category": "a",
+   "source": "angel beats"
+  },
+  {
+   "code": "A093",
+   "category": "a",
+   "source": "CLANNAD ～AFTER STORY～"
+  },
+  {
+   "code": "A094",
+   "category": "a",
+   "source": "Darling in the FRANXX"
+  },
+  {
+   "code": "A098",
+   "category": "a",
+   "source": "中二病也要谈恋爱"
+  },
+  {
+   "code": "A105",
+   "category": "a",
+   "source": "孤独摇滚"
+  },
+  {
+   "code": "A106",
+   "category": "a",
+   "source": "寒蝉鸣泣之时"
+  },
+  {
+   "code": "A108",
+   "category": "a",
+   "source": "我们仍未知道那天所看见的花的名字"
+  },
+  {
+   "code": "A112",
+   "category": "a",
+   "source": "春物"
+  },
+  {
+   "code": "A125",
+   "category": "a",
+   "source": "青春猪头少年不会梦到兔女郎学姐"
+  },
+  {
+   "code": "A127",
+   "category": "a",
+   "source": "高坂桐乃"
+  },
+  {
+   "code": "A128",
+   "category": "a",
+   "source": "魁拔"
+  },
+  {
+   "code": "A133",
+   "category": "a",
+   "source": "Little busters"
+  },
+  {
+   "code": "A134",
+   "category": "a",
+   "source": "Little Busters!"
+  },
+  {
+   "code": "A140",
+   "category": "a",
+   "source": "中二病也要谈恋爱！"
+  },
+  {
+   "code": "A141",
+   "category": "a",
+   "source": "为美好的世界献上祝福"
+  },
+  {
+   "code": "A152",
+   "category": "a",
+   "source": "命运石之门"
+  },
+  {
+   "code": "A153",
+   "category": "a",
+   "source": "哆啦A梦"
+  },
+  {
+   "code": "A159",
+   "category": "a",
+   "source": "女高中生的虚度日常"
+  },
+  {
+   "code": "A165",
+   "category": "a",
+   "source": "恋爱随意链接"
+  },
+  {
+   "code": "A173",
+   "category": "a",
+   "source": "擅长捉弄的高木同学"
+  },
+  {
+   "code": "A180",
+   "category": "a",
+   "source": "比宇宙更远的地方"
+  },
+  {
+   "code": "A186",
+   "category": "a",
+   "source": "白色相簿2"
+  },
+  {
+   "code": "A190",
+   "category": "a",
+   "source": "笨蛋测验召唤兽"
+  },
+  {
+   "code": "A192",
+   "category": "a",
+   "source": "缘之空"
+  },
+  {
+   "code": "A207",
+   "category": "a",
+   "source": "龙猫"
+  },
+  {
+   "code": "A211",
+   "category": "a",
+   "source": "AngelBeats"
+  },
+  {
+   "code": "A212",
+   "category": "a",
+   "source": "Angelbeats"
+  },
+  {
+   "code": "A213",
+   "category": "a",
+   "source": "Angle Beats"
+  },
+  {
+   "code": "A214",
+   "category": "a",
+   "source": "AngleBeats!"
+  },
+  {
+   "code": "A224",
+   "category": "a",
+   "source": "Charlotte"
+  },
+  {
+   "code": "A225",
+   "category": "a",
+   "source": "clannad"
+  },
+  {
+   "code": "A226",
+   "category": "a",
+   "source": "CLANNAD ～AFTER STORY～ EP18"
+  },
+  {
+   "code": "A231",
+   "category": "a",
+   "source": "Eva"
+  },
+  {
+   "code": "A232",
+   "category": "a",
+   "source": "eva"
+  },
+  {
+   "code": "A233",
+   "category": "a",
+   "source": "EVA:One Last Kiss"
+  },
+  {
+   "code": "A251",
+   "category": "a",
+   "source": "jojo的奇妙冒险"
+  },
+  {
+   "code": "A252",
+   "category": "a",
+   "source": "JOJO的奇妙冒险 黄金之风"
+  },
+  {
+   "code": "A253",
+   "category": "a",
+   "source": "JOJO的奇妙冒险·战斗潮流"
+  },
+  {
+   "code": "A257",
+   "category": "a",
+   "source": "little busters！"
+  },
+  {
+   "code": "A290",
+   "category": "a",
+   "source": "WHITE ALBUM 2"
+  },
+  {
+   "code": "A291",
+   "category": "a",
+   "source": "WHITE ALBUM2"
+  },
+  {
+   "code": "A292",
+   "category": "a",
+   "source": "WHITE FIRST LOVE"
+  },
+  {
+   "code": "A293",
+   "category": "a",
+   "source": "《DARLING in the FRANXX》"
+  },
+  {
+   "code": "A296",
+   "category": "a",
+   "source": "ヨスガノソラ"
+  },
+  {
+   "code": "A308",
+   "category": "a",
+   "source": "东方project"
+  },
+  {
+   "code": "A309",
+   "category": "a",
+   "source": "中二病也要谈恋爱 恋！"
+  },
+  {
+   "code": "A333",
+   "category": "a",
+   "source": "公主连结Re:Dive"
+  },
+  {
+   "code": "A362",
+   "category": "a",
+   "source": "名侦探柯南:绯色的子弹"
+  },
+  {
+   "code": "A363",
+   "category": "a",
+   "source": "名侦探柯南剧场版：贝克街的亡灵"
+  },
+  {
+   "code": "A364",
+   "category": "a",
+   "source": "名侦探柯南：绯色的子弹"
+  },
+  {
+   "code": "A365",
+   "category": "a",
+   "source": "君の名は。"
+  },
+  {
+   "code": "A378",
+   "category": "a",
+   "source": "夏洛特"
+  },
+  {
+   "code": "A380",
+   "category": "a",
+   "source": "多啦A梦"
+  },
+  {
+   "code": "A391",
+   "category": "a",
+   "source": "学园孤岛"
+  },
+  {
+   "code": "A399",
+   "category": "a",
+   "source": "寒蝉明泣之时"
+  },
+  {
+   "code": "A421",
+   "category": "a",
+   "source": "总之就是非常可爱"
+  },
+  {
+   "code": "A422",
+   "category": "a",
+   "source": "恋爱小行星"
+  },
+  {
+   "code": "A430",
+   "category": "a",
+   "source": "我的恋爱物语果然有问题"
+  },
+  {
+   "code": "A444",
+   "category": "a",
+   "source": "星座になれたら"
+  },
+  {
+   "code": "A458",
+   "category": "a",
+   "source": "末日时在做什么"
+  },
+  {
+   "code": "A459",
+   "category": "a",
+   "source": "末日时在做什么?有没有空?可以来拯救吗?"
+  },
+  {
+   "code": "A460",
+   "category": "a",
+   "source": "末日时在做什么？能不能再见一面？"
+  },
+  {
+   "code": "A471",
+   "category": "a",
+   "source": "某科学的超电磁炮S"
+  },
+  {
+   "code": "A472",
+   "category": "a",
+   "source": "柯南"
+  },
+  {
+   "code": "A480",
+   "category": "a",
+   "source": "欢迎来到实力至上主义的教室"
+  },
+  {
+   "code": "A504",
+   "category": "a",
+   "source": "玉子爱情故事"
+  },
+  {
+   "code": "A513",
+   "category": "a",
+   "source": "男子高中生的日常"
+  },
+  {
+   "code": "A516",
+   "category": "a",
+   "source": "相合之物"
+  },
+  {
+   "code": "A535",
+   "category": "a",
+   "source": "约会大作战"
+  },
+  {
+   "code": "A536",
+   "category": "a",
+   "source": "约定的梦幻岛"
+  },
+  {
+   "code": "A542",
+   "category": "a",
+   "source": "绯弹的亚里亚"
+  },
+  {
+   "code": "A554",
+   "category": "a",
+   "source": "花开伊吕波"
+  },
+  {
+   "code": "A568",
+   "category": "a",
+   "source": "超辉夜姬！"
+  },
+  {
+   "code": "A569",
+   "category": "a",
+   "source": "路人女主的养成方法"
+  },
+  {
+   "code": "A571",
+   "category": "a",
+   "source": "辉夜大小姐想让我告白"
+  },
+  {
+   "code": "A585",
+   "category": "a",
+   "source": "键等"
+  },
+  {
+   "code": "A599",
+   "category": "a",
+   "source": "青春期猪头少年不会梦到兔女郎学姐"
+  },
+  {
+   "code": "A600",
+   "category": "a",
+   "source": "青春猪头少年不会梦到怀梦美少女"
+  },
+  {
+   "code": "A603",
+   "category": "a",
+   "source": "风之谷"
+  },
+  {
+   "code": "A616",
+   "category": "a",
+   "source": "魁拔之书第二卷"
+  },
+  {
+   "code": "A620",
+   "category": "a",
+   "source": "魔法少女小圆-叛逆的物语"
+  },
+  {
+   "code": "A621",
+   "category": "a",
+   "source": "魔法少女小圆新篇"
+  },
+  {
+   "code": "A622",
+   "category": "a",
+   "source": "魔法少女小圆新篇 叛逆的物语"
+  },
+  {
+   "code": "A624",
+   "category": "a",
+   "source": "魔法禁书目录 第二季"
+  },
+  {
+   "code": "B003",
+   "category": "b",
+   "source": "我的青春恋爱物语果然有问题"
+  },
+  {
+   "code": "B007",
+   "category": "b",
+   "source": "JOJO的奇妙冒险"
+  },
+  {
+   "code": "B019",
+   "category": "b",
+   "source": "jojo的奇妙冒险"
+  },
+  {
+   "code": "B028",
+   "category": "b",
+   "source": "你的名字"
+  },
+  {
+   "code": "B050",
+   "category": "b",
+   "source": "我们仍未知道那天所看见的花的名字"
+  },
+  {
+   "code": "B052",
+   "category": "b",
+   "source": "无职转生～到了异世界就拿出真本事～"
+  },
+  {
+   "code": "B062",
+   "category": "b",
+   "source": "约定的梦幻岛"
+  },
+  {
+   "code": "C001",
+   "category": "c",
+   "source": "原神"
+  },
+  {
+   "code": "C002",
+   "category": "c",
+   "source": "明日方舟"
+  },
+  {
+   "code": "C009",
+   "category": "c",
+   "source": "三国杀"
+  },
+  {
+   "code": "C015",
+   "category": "c",
+   "source": "守望先锋"
+  },
+  {
+   "code": "C016",
+   "category": "c",
+   "source": "Minecraft"
+  },
+  {
+   "code": "C019",
+   "category": "c",
+   "source": "Summer Pockets"
+  },
+  {
+   "code": "C020",
+   "category": "c",
+   "source": "东方永夜抄"
+  },
+  {
+   "code": "C027",
+   "category": "c",
+   "source": "千恋万花"
+  },
+  {
+   "code": "C028",
+   "category": "c",
+   "source": "樱之诗"
+  },
+  {
+   "code": "C029",
+   "category": "c",
+   "source": "沙耶之歌"
+  },
+  {
+   "code": "C031",
+   "category": "c",
+   "source": "Undertale"
+  },
+  {
+   "code": "C033",
+   "category": "c",
+   "source": "东方project"
+  },
+  {
+   "code": "C042",
+   "category": "c",
+   "source": "Arcaea"
+  },
+  {
+   "code": "C043",
+   "category": "c",
+   "source": "Doki Doki Literature Club Plus!"
+  },
+  {
+   "code": "C052",
+   "category": "c",
+   "source": "星空列车与白的旅行"
+  },
+  {
+   "code": "C053",
+   "category": "c",
+   "source": "樱花、萌放"
+  },
+  {
+   "code": "C056",
+   "category": "c",
+   "source": "爱上火车Lastrun"
+  },
+  {
+   "code": "C058",
+   "category": "c",
+   "source": "终末之诗"
+  },
+  {
+   "code": "C060",
+   "category": "c",
+   "source": "美少女万华镜·理与迷宫的少女"
+  },
+  {
+   "code": "C068",
+   "category": "c",
+   "source": "Eden"
+  },
+  {
+   "code": "C070",
+   "category": "c",
+   "source": "Little Busters!"
+  },
+  {
+   "code": "C076",
+   "category": "c",
+   "source": "三国杀 神司马懿"
+  },
+  {
+   "code": "C077",
+   "category": "c",
+   "source": "东方地灵殿"
+  },
+  {
+   "code": "C078",
+   "category": "c",
+   "source": "东方绀珠传"
+  },
+  {
+   "code": "C090",
+   "category": "c",
+   "source": "心跳文学部"
+  },
+  {
+   "code": "C102",
+   "category": "c",
+   "source": "终末之诗（文言）"
+  },
+  {
+   "code": "C107",
+   "category": "c",
+   "source": "近月少女的礼仪"
+  },
+  {
+   "code": "C113",
+   "category": "c",
+   "source": "魔女的夜宴"
+  },
+  {
+   "code": "C121",
+   "category": "c",
+   "source": "CLANNAD"
+  },
+  {
+   "code": "C130",
+   "category": "c",
+   "source": "eden*"
+  },
+  {
+   "code": "C146",
+   "category": "c",
+   "source": "Minecraft闪烁标语"
+  },
+  {
+   "code": "C147",
+   "category": "c",
+   "source": "narcissu"
+  },
+  {
+   "code": "C148",
+   "category": "c",
+   "source": "Overwatch"
+  },
+  {
+   "code": "C153",
+   "category": "c",
+   "source": "SummerPocket"
+  },
+  {
+   "code": "C159",
+   "category": "c",
+   "source": "UNDERTALE"
+  },
+  {
+   "code": "C160",
+   "category": "c",
+   "source": "undertale"
+  },
+  {
+   "code": "C199",
+   "category": "c",
+   "source": "《明日方舟》"
+  },
+  {
+   "code": "C201",
+   "category": "c",
+   "source": "ヨスガノソラ"
+  },
+  {
+   "code": "C204",
+   "category": "c",
+   "source": "东方Project"
+  },
+  {
+   "code": "C208",
+   "category": "c",
+   "source": "东方永夜抄 ～ Imperishable Night."
+  },
+  {
+   "code": "C210",
+   "category": "c",
+   "source": "东方绀珠传 ～ Legacy of Lunatic Kingdom."
+  },
+  {
+   "code": "C211",
+   "category": "c",
+   "source": "东方虹龙洞"
+  },
+  {
+   "code": "C234",
+   "category": "c",
+   "source": "千恋＊万花"
+  },
+  {
+   "code": "C237",
+   "category": "c",
+   "source": "原神·提瓦特篇"
+  },
+  {
+   "code": "C292",
+   "category": "c",
+   "source": "東方永夜抄"
+  },
+  {
+   "code": "C297",
+   "category": "c",
+   "source": "樱花，萌放。"
+  },
+  {
+   "code": "C298",
+   "category": "c",
+   "source": "永不枯萎的世界与终结之花"
+  },
+  {
+   "code": "C310",
+   "category": "c",
+   "source": "爱上火车-Pure Station-"
+  },
+  {
+   "code": "C314",
+   "category": "c",
+   "source": "理与迷宫的少女"
+  },
+  {
+   "code": "C318",
+   "category": "c",
+   "source": "白色相簿2"
+  },
+  {
+   "code": "C319",
+   "category": "c",
+   "source": "白色相簿II"
+  },
+  {
+   "code": "C326",
+   "category": "c",
+   "source": "终末之诗（中文）"
+  },
+  {
+   "code": "C360",
+   "category": "c",
+   "source": "青空下的加缪"
+  },
+  {
+   "code": "A014",
+   "category": "a",
+   "source": "紫罗兰永恒花园"
+  },
+  {
+   "code": "A018",
+   "category": "a",
+   "source": "狼与香辛料"
+  },
+  {
+   "code": "A033",
+   "category": "a",
+   "source": "Re：从零开始的异世界生活"
+  },
+  {
+   "code": "A040",
+   "category": "a",
+   "source": "熊出没"
+  },
+  {
+   "code": "A041",
+   "category": "a",
+   "source": "罪恶王冠"
+  },
+  {
+   "code": "A057",
+   "category": "a",
+   "source": "海绵宝宝"
+  },
+  {
+   "code": "A060",
+   "category": "a",
+   "source": "功夫熊猫"
+  },
+  {
+   "code": "A062",
+   "category": "a",
+   "source": "小林家的龙女仆"
+  },
+  {
+   "code": "A064",
+   "category": "a",
+   "source": "机动战士高达"
+  },
+  {
+   "code": "A069",
+   "category": "a",
+   "source": "紫罗兰的永恒花园"
+  },
+  {
+   "code": "A073",
+   "category": "a",
+   "source": "My Little Pony: Friendship is Magic"
+  },
+  {
+   "code": "A074",
+   "category": "a",
+   "source": "Re:从零开始的异世界生活"
+  },
+  {
+   "code": "A083",
+   "category": "a",
+   "source": "如果有个妹妹就好了"
+  },
+  {
+   "code": "A107",
+   "category": "a",
+   "source": "少女终末旅行"
+  },
+  {
+   "code": "A110",
+   "category": "a",
+   "source": "新世纪福音战士"
+  },
+  {
+   "code": "A113",
+   "category": "a",
+   "source": "来自风平浪静的明天"
+  },
+  {
+   "code": "A115",
+   "category": "a",
+   "source": "死亡笔记"
+  },
+  {
+   "code": "A122",
+   "category": "a",
+   "source": "葬送的芙莉莲"
+  },
+  {
+   "code": "A129",
+   "category": "a",
+   "source": "Ave Mujica"
+  },
+  {
+   "code": "A136",
+   "category": "a",
+   "source": "TARI TARI"
+  },
+  {
+   "code": "A138",
+   "category": "a",
+   "source": "ラブライブ！"
+  },
+  {
+   "code": "A195",
+   "category": "a",
+   "source": "莉可丽丝"
+  },
+  {
+   "code": "B017",
+   "category": "b",
+   "source": "葬送的芙莉莲"
+  },
+  {
+   "code": "B004",
+   "category": "b",
+   "source": "少女终末旅行"
+  },
+  {
+   "code": "B033",
+   "category": "b",
+   "source": "咒术回战"
+  },
+  {
+   "code": "C014",
+   "category": "c",
+   "source": "Stellaris"
+  },
+  {
+   "code": "C026",
+   "category": "c",
+   "source": "三色绘恋"
+  },
+  {
+   "code": "C030",
+   "category": "c",
+   "source": "群星"
+  },
+  {
+   "code": "C062",
+   "category": "c",
+   "source": "黑神话悟空"
+  },
+  {
+   "code": "C073",
+   "category": "c",
+   "source": "Phigros"
+  },
+  {
+   "code": "C074",
+   "category": "c",
+   "source": "phigros"
+  }
+ ],
+ "rejected_unselected_sources": true,
+ "custom_entries_preserved": 300,
+ "catalog_count": 1366,
+ "upstream_additions_count": 428
+}

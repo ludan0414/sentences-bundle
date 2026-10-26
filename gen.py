@@ -38,6 +38,20 @@ if __name__ == '__main__':
                 tmp['from_who'] = None
             mydict.append(tmp)
         
+    # Keep reviewed upstream additions when regenerating custom sentences.
+    from pathlib import Path
+    upstream_file = Path(__file__).resolve().parent / 'upstream-selected.json'
+    if upstream_file.exists():
+        with upstream_file.open(encoding='utf8') as fp:
+            upstream_rows = json.load(fp)
+        fields = ('hitokoto', 'type', 'from', 'from_who')
+        seen = {tuple(row[field] for field in fields) for row in mydict}
+        for row in upstream_rows:
+            key = tuple(row[field] for field in fields)
+            if key not in seen:
+                mydict.append({field: row[field] for field in fields})
+                seen.add(key)
+
     with open('./cat.json','w',encoding='utf8',newline='\n') as f:
         data = json.dumps(mydict,indent=1,ensure_ascii=False)
         f.write(data)
